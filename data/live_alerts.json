@@ -1,0 +1,9 @@
+[
+  {
+    "timestamp": "2025-08-29T19:40:16.000663Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  }
+]

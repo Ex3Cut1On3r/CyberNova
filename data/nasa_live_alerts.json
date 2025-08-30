@@ -1,0 +1,2654 @@
+[
+  {
+    "id": "34ed79f4-cfa6-4538-bfb9-499330c04c6b",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T06:34:43.854193+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "f97e66094f70ec16b2de836d91f0139609e567d0"
+  },
+  {
+    "id": "3c1ae372-b83b-4d32-914c-1eb212bccd1c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T06:35:52.249773+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "cbdad1642dce78e89ecf6d587dec8fb5e7e6b57c"
+  },
+  {
+    "id": "02f0a265-c17c-4a52-9bb0-b7bbc9243d75",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T06:36:59.940375+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "6cea91ce1665fe34b54bb1a46206c6adc71d4e8a"
+  },
+  {
+    "id": "ef6e9f2c-d463-4458-a73a-6eb7b85d029d",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T06:38:09.572854+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "50cd88c46252be61878259fbbedec90fae13d088"
+  },
+  {
+    "id": "f039f37a-528d-4b0b-a71e-a61e56da2177",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T06:39:17.167140+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "63684fde3d38c437c13314efb905beb3f63b26f6"
+  },
+  {
+    "id": "973d0513-0efe-4446-aca8-3114e3a65346",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:01:34.805434+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "b0ae80b4d48b7cb72995ea89072c642d06a82e23"
+  },
+  {
+    "id": "702c3c6e-9c57-437b-ba08-ead472c00cd9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:02:41.891116+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "524c29b5c396e79dca4bace1dc205353da1f84a8"
+  },
+  {
+    "id": "d8b234fc-2ea0-4087-b2b0-0809684746da",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:03:48.720782+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "9e1ce659944ee8501ac6263e592b9efa41fe3b4c"
+  },
+  {
+    "id": "2c04972c-d070-4fa3-b9f6-7a606139c4c0",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:04:57.630830+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "49b2ca3df3f8a0ccffc04a9c0f6f1f9f7856b1b4"
+  },
+  {
+    "id": "1c9c0fe3-c98a-4d36-91cd-f5243c49a179",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:06:04.785194+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "681ee871909053db050dd3580a9b19572ecdebd7"
+  },
+  {
+    "id": "89468583-5797-4530-8ffc-cad0eee0b7c5",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:07:11.796329+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "022ddb782060c2edb388e5559e0c06c8d2b6161f"
+  },
+  {
+    "id": "dc596869-0e7e-42dc-89a7-5a3fcb546ecd",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:08:18.756202+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "bcfc94a2da19764d7c682be21f92066261b08b33"
+  },
+  {
+    "id": "96b3405c-5a98-44f4-9e3d-dc27f782fb1d",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:09:25.595624+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "46de94e92e4fa87cb9f81f8d9bcfc3784329dd01"
+  },
+  {
+    "id": "4c340360-5b94-414f-b140-fb1533afdb7e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:10:32.619838+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "4b2a860fdf2f352c89bf532b097d61c785dc5f61"
+  },
+  {
+    "id": "ab40a044-718f-4bfc-be6e-132d598dbb99",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:11:39.674917+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "6c74357497db33a6808a3764aa24373936bb3ca1"
+  },
+  {
+    "id": "f5913ff1-3888-43b8-93e1-78f1754150cc",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:12:46.536830+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "1c84640ec4b96183b712b547c948fbf76296f292"
+  },
+  {
+    "id": "3924f363-10fa-4d99-a2b4-34c9167da0b6",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:13:53.615226+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8f2bad12578522df3e280d74a3de1b5de01ba553"
+  },
+  {
+    "id": "c0191036-d73d-4125-ad1c-f22f00f29940",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:17:43.882279+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "57de1975e33b0da461ca269a126e1614f2e5a09f"
+  },
+  {
+    "id": "d57e9a96-2b8b-48d0-b893-ee871a7d1089",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:50:19.984500+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "f0408d7b5dddf33538b1e0c7cc9d384929fcebcb"
+  },
+  {
+    "id": "256f2070-dfd1-4ed7-b5ab-f06709ddcad5",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:51:28.257783+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "64b36444f0fb44ef6a4635aed341bc74df4a0afb"
+  },
+  {
+    "id": "a993c9ec-5b1b-4251-8f26-c5c7f5125b40",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:52:36.130864+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "4bb42e97b0cffb00e9956cddf6dfa253ea342760"
+  },
+  {
+    "id": "d73de152-cf0f-44d2-996b-9ce661b094aa",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:53:43.075392+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "5efa413c127a2601029a469867babfca838b554d"
+  },
+  {
+    "id": "b6f590ab-4b8f-4db8-a9c5-86bab716e990",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:54:50.339692+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "6730d6f0d9dfec8c4442277e7203e80f7b2bdf21"
+  },
+  {
+    "id": "255f788c-164e-4650-b824-2c35cd4bf8ac",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:55:57.177409+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "cbe221b7516d4fe2f12c06ccd6c44d8de13a9b30"
+  },
+  {
+    "id": "def9101b-bba0-476e-b0d3-c11e4008e393",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:57:04.070727+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "bf162df2f343ca7037bece48e48ec184a1aa767e"
+  },
+  {
+    "id": "e6682afc-d376-4b39-afa8-d9b84a7a2aeb",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:58:11.049338+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "b24d5839598335e66c4f6546b9ad0a969b393b41"
+  },
+  {
+    "id": "65b0cb96-276b-44a3-978e-798e1329c0c2",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T07:59:17.953514+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "6b4c738c38ac394e5aeb91a2c0997e3667b87faa"
+  },
+  {
+    "id": "9e3cb528-48bf-4dbb-9fa8-71428a3d3ed7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:00:25.853301+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "3d125b05b71cce92edd6f0a1e79a484cc0ef0c98"
+  },
+  {
+    "id": "b43444e6-b12f-4589-9296-563094127d39",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:01:32.784313+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "dc74566e8bc393e0aa63fc0a5fa16dbda405ae0c"
+  },
+  {
+    "id": "90440a4b-596f-4fd4-98e8-1d4f60e70600",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:02:39.734197+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "134d48d96880d830cb65078c57fe39ff89dd674b"
+  },
+  {
+    "id": "74fcf080-fecf-4153-be25-5317c7e496a0",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:03:46.478857+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "632937512d175cdaef49f2edee9be000469fdaf0"
+  },
+  {
+    "id": "40f28b36-35c2-44e9-8c5e-d84add9f4aa6",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:04:53.288809+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "d4453b1827c919cd8a8e9c831a0251db56922875"
+  },
+  {
+    "id": "611ebf10-388f-41d0-8965-1c09d1ee5ef8",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:06:00.183846+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "68bd2cd94dd2b6b02e1bc1541a0ac2771691a85e"
+  },
+  {
+    "id": "08d35274-e829-4bf2-8831-75a9b1470581",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:07:07.905241+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "4c8da8fc57d296cfe3819766c2ca3725f2f34f80"
+  },
+  {
+    "id": "42f44113-915f-442b-b5ac-39c8bda602a3",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:08:14.714089+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "9e8ac80193d9a0e3a7e255b0eb21da71887a71cc"
+  },
+  {
+    "id": "9c9f3fc5-1108-48c1-ba27-b8a1c0a8c1da",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:09:21.722813+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "d7d1efa547dc5508d1b2ee76c05f00ab472e2a3b"
+  },
+  {
+    "id": "80271e4c-5def-48f0-aed6-5ebc16b4c99a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:10:29.588121+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "1743ab7df214dc8569c1e0dcb1814f0d1215d44e"
+  },
+  {
+    "id": "2924b1c2-78ff-4f85-8085-8cfaf6fa0cbb",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:11:36.481887+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "d1c50fd90c375796eae9e96c14c9205e1a23345a"
+  },
+  {
+    "id": "fe604bf5-6d9f-42de-8e72-46c02c6b2883",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:12:43.151595+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "1ac8edf6308c70c077c5eead77816f1b5e62cfde"
+  },
+  {
+    "id": "8819ef55-fe78-4355-952b-5f2a08cf94a6",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:13:49.792712+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "434691c388b5290e2a868ad75f1f972f5551fc46"
+  },
+  {
+    "id": "8080da67-9265-48fb-a7c0-facb743d57a9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:14:57.886136+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "d1de660971e6862117ec0c68a6ef02711b2f9bb8"
+  },
+  {
+    "id": "1715e449-7211-4079-be10-32e7a7288f45",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:16:05.829949+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8edd9076a086c331cdfed6535b60f135ccdca48a"
+  },
+  {
+    "id": "6e94fd93-8542-438f-a6f7-c4c257f32b95",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:17:12.679522+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "383c4a862fc2b1a1bcdba144128f1eb998cb6528"
+  },
+  {
+    "id": "bcdec236-c747-4e59-a79b-07ec5991f080",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:18:20.117494+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "9502912b3be81331448bce6c945471df3877884b"
+  },
+  {
+    "id": "2efc16b2-0847-443d-a24c-bc831893ad8f",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:19:27.093148+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "6a7fb54376f936726bb842d67904d99d20426a07"
+  },
+  {
+    "id": "bf029d19-49d1-4d7d-a16c-dad71f96cda8",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:20:35.286083+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "f4906927aa2b9bf6891ada353905173e50fc21e3"
+  },
+  {
+    "id": "11df55b1-8cde-415b-aee8-65663ca46f5b",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:21:42.223798+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "c93a795b89b07232dc060dc91b5ff1ffa34a4548"
+  },
+  {
+    "id": "def4a0f1-76b9-44e9-b621-b70e0b35e4bd",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:22:49.280222+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8a253174d2f841b1597580056084a516a229c925"
+  },
+  {
+    "id": "e11d8765-5a4b-44ce-b3fa-d04557a1885c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:23:56.152630+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "07b1ba912ae64ef1e65a74a516a4285a6555c7cd"
+  },
+  {
+    "id": "47a7e32b-fef1-4b39-b247-a07fd961602a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:25:03.159527+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "5f656980b0934b1fc3c9108e43e2f2a6033f0605"
+  },
+  {
+    "id": "6787fd67-d3ff-4e15-ad6f-35c9fa9204a0",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:26:10.023661+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "618373a7a1e20ef21018abe210b0436a8635c91f"
+  },
+  {
+    "id": "3606ab3f-5ae9-4de5-b75c-14945183444c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:27:16.973575+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "5b26de782f974f023ed96406690e0688052f713a"
+  },
+  {
+    "id": "7a0d0697-b0dc-46e7-a8fd-ec020798701e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:28:23.905869+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "353c72a72f804cf44630c2fe311ca09ad570c984"
+  },
+  {
+    "id": "3af09054-e1bf-49c0-9107-1fc2223325a1",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:29:30.901837+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "f94da89aae692a42d33520b96576f78b466788cd"
+  },
+  {
+    "id": "3c4ba828-c1a9-49de-809a-d2dda1b56cb1",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:30:38.662975+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "278ac502a8fdc335956a6f8e213816f3eb67bbce"
+  },
+  {
+    "id": "aa9ca66a-32a8-4331-9bde-030f0d8fab55",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:31:45.680312+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "e19542f339898d8322f56df182b684e9f097c1f8"
+  },
+  {
+    "id": "ecba3381-f4ca-43ee-ba00-8738d894a0e9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:32:52.582260+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8f2dbff88f8a60c0e2d797e6f73a753fb7adc1bf"
+  },
+  {
+    "id": "4a86e3e9-ea73-4bc3-8812-64d6e8fbc039",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:33:59.467317+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "9daa97c433ede2da1f73c78bda14121e2bc4f72b"
+  },
+  {
+    "id": "a9a3a491-5e72-4b1c-80d8-966ca0f3ccc4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:35:06.605195+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "0c8ca4801d351448218aecf9b42c120d13d12979"
+  },
+  {
+    "id": "38711f2f-cc91-48f4-a458-b8c7609638c7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:36:14.352576+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "fd35680dc7b3076337ade581ed8aee3574145742"
+  },
+  {
+    "id": "c9287fb1-2220-4c65-ac72-105a740ce47a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:37:21.303254+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "996d1df7177eca7fa5b299ac5c482b18843e2e44"
+  },
+  {
+    "id": "fd40a5cf-8c20-4e40-8e96-03bc23b9832c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:38:28.283878+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8e37bf435fd93eee7c0b123b5bffdbd498d8dd50"
+  },
+  {
+    "id": "08b1f578-5d46-4c75-bf37-89db7f5ab84c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:39:35.319241+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "8cbc10ffbe07ee2768e3e93da86d25f0a9487f3f"
+  },
+  {
+    "id": "3b150c20-35b8-4a15-b903-f74b1f9609af",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:40:43.227654+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "c6d7b3fb6b8526f91690cd68c05f7b5deedf9ee2"
+  },
+  {
+    "id": "42ee8e6f-6e1e-4dd0-bcca-d894c6b03b87",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:41:50.113028+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "e0140b9858b1003ef7ec9918724136a8f2949e50"
+  },
+  {
+    "id": "42fe5aed-af5b-4654-abbc-366d70db7247",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:42:57.778701+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "2180c7ffd0c92932b2407317f952c0eb0f497d69"
+  },
+  {
+    "id": "5342c322-f2f6-42c4-b586-f00a7ee9a832",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:44:04.727371+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "31f1b458df94a5a71b878f999d0d82d2fefea313"
+  },
+  {
+    "id": "e9bd8ebc-7035-451e-9489-158740bfc646",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:45:11.550085+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "a11da7b72863c54fc65fb5fab202776d82a264c8"
+  },
+  {
+    "id": "cf6db418-d1ab-48cb-b182-411736e32c84",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:46:18.473243+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "263563ae7fce558038f2e016922689bf905de148"
+  },
+  {
+    "id": "a96f6f80-fad9-4427-8e68-72dac9361caf",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:47:25.634809+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "f7c1c059dc07a4c4106abb3d5b7827a9afa7e1e9"
+  },
+  {
+    "id": "78953035-ee13-460d-8fe5-6c66902e7f40",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:48:32.534980+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "39"
+    },
+    "description": "39 space-weather events in the last pull",
+    "fingerprint": "c8a76994ede8bef5fd5964eaf54bff2f2c02c06f"
+  },
+  {
+    "id": "a536f4b4-7a02-474a-8c46-77a6a72cb266",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:49:39.391051+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a4a59847b25140f2db31c4b5bbbb1a60758eb010"
+  },
+  {
+    "id": "24dcc2e4-1a40-442f-8e38-e6d710eabca7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:50:47.812868+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "bf2e76ce0ff05ffe7e8aabda380a0fa0f2aa0e1c"
+  },
+  {
+    "id": "efe4d44a-690c-4e01-99c1-b292c8da3ef1",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:51:54.871520+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "31cbf0853f9b5948222bc8d6e5f34f2ecc3f5bc5"
+  },
+  {
+    "id": "658724a1-3197-4be2-946d-b8e552060850",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:53:02.039336+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "f5ab56a6ecaf354f9880196984e87dbf62e586ea"
+  },
+  {
+    "id": "8f0dc45a-2e99-4bc3-9997-726b0b52edf6",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:54:09.117758+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "82409b7d398f86ffa281cc1c9b268c54d2abcbb0"
+  },
+  {
+    "id": "1ffe3d6e-ab5a-40c4-99bb-649f23874897",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:55:16.191548+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "18f468a4f14982dee5b86d1cf00114e2b93c125a"
+  },
+  {
+    "id": "c83bcc7d-7e23-405a-b4a2-5e53e2fc637c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:56:23.212217+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "da80374b7ceb40255d7b61013ee171cca22caa6c"
+  },
+  {
+    "id": "29024865-9ab4-45e2-b959-2272c7be6e50",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:57:30.267953+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "b2d26bf0eb95690961dad88fee30831017d72fa9"
+  },
+  {
+    "id": "d885d3ff-d7dc-4f33-9181-f44a9d09f8a7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T08:58:37.329440+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "c476961ecb4246f185bd5f976b90365f8d8c7485"
+  },
+  {
+    "id": "3034447b-6a59-4625-8a1d-281f860fa16c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:02:56.488113+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "4724a3e57b6b0f7bc1cfa00bbf87d73c25575b3e"
+  },
+  {
+    "id": "6b717962-5f58-432c-be4a-713533a2cbda",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:04:07.391618+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "9ec1b17b92250f4f1ad9769452df46bfc69ccada"
+  },
+  {
+    "id": "83da8ec9-2b82-4485-b1bf-24a113c059e8",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:05:14.545642+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "606c9a5dcc7973ee672ed510b171cb7945968955"
+  },
+  {
+    "id": "0bc5d8da-5165-41d0-a6ec-4ad405d9cd14",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:07:57.750986+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "d24760be3274a9ef72dadb813d42e79fd7e1b974"
+  },
+  {
+    "id": "1aa25c35-5c4e-4a8b-9bbf-e225166f4cbc",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:09:04.928111+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a3fd199bc1479dfbd7df2c44e85ff1184700fa50"
+  },
+  {
+    "id": "8956f7e7-6967-48c7-8518-124a9b3392ff",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:10:12.258318+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "519d5d2065a7243c8eff186335320b3b92502346"
+  },
+  {
+    "id": "331cbc21-2975-41f9-b228-d8a570b4f778",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:11:20.213754+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "aac6251d57cc86b81df8dc1573144e51b7cbec54"
+  },
+  {
+    "id": "fdee4141-fbcd-4056-95ad-5fbcebd0a568",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:12:26.923353+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "b679924f926b37491f61e7ce47fba17f58698e4d"
+  },
+  {
+    "id": "2315c614-95b5-46f6-9a24-adf81c4882ed",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:13:35.003207+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "c4ab6fb94ce4105e2ae13d5084ee76b68d5870d1"
+  },
+  {
+    "id": "d238f93a-2701-46bd-b161-1360793efc7b",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:14:42.006605+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "389ccfdbdb0903f4886bb9cf0670ae31c52e64d5"
+  },
+  {
+    "id": "83765e90-0769-4f2a-b527-92a88f4a3818",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:15:49.130342+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "34cc183449bfa1e24a26178462f0eaaef04d555d"
+  },
+  {
+    "id": "d5675fa6-4c50-4b6d-b6c7-71deb65b5d74",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:16:56.971068+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "94de08274fe1bc0f72647fde0109bca089d7b58f"
+  },
+  {
+    "id": "8596587e-8b77-480b-8705-58b6a477d20d",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:18:05.168936+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "4f6c2bdd18885c6596c19fc9cb4e8a59c9060e26"
+  },
+  {
+    "id": "d83d7383-c80b-4603-a2dd-85bb50d36d10",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:19:12.037910+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "abc3a84d8cceeb70c984d55e807c5ff0527be408"
+  },
+  {
+    "id": "3be54b44-7d74-4944-acba-312d8127dbcf",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:20:18.970131+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "0f4ce50ebc0901e4aa1220342253701bd95c8292"
+  },
+  {
+    "id": "c0fb4612-efa7-4aea-93ef-9ef1090e6108",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:21:26.895453+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "44e7a2601263af28c711147aac39f43e89333ccd"
+  },
+  {
+    "id": "1a8f1d4b-4ae6-4141-92ff-6aafe938088a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:22:36.588995+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "04674849e3de4ee6d8e4f18abe5dbe27775c2343"
+  },
+  {
+    "id": "319e935a-437f-4879-bf09-4a36190da582",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:23:47.270803+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "26260f3e002c083f4d1a6443f0473f70bca9a377"
+  },
+  {
+    "id": "39401958-fdc5-4842-a340-968b6cc0ec22",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:24:58.267520+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "345fffb34932d4dab937bc8229624f3e74236c93"
+  },
+  {
+    "id": "4132ed18-1d58-454f-adac-103e361255d2",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:26:05.680633+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "edb8c0cf864101411a8a79f5fb923f16cb119cc5"
+  },
+  {
+    "id": "b5af61ae-0653-4134-8f01-f904c63ea7ae",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:42:55.815067+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "cc4ac86ef9ad51be85b438c06b82c782c4604b07"
+  },
+  {
+    "id": "01a573e2-b6e4-4ccf-bf9d-a2f763e0f6dd",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T09:44:03.386917+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "60b5f84a64cdefb0fb8be48242c8a2ee5942542c"
+  },
+  {
+    "id": "76d795e0-8add-4257-9672-834a0f8ee579",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:27:15.228126+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "ced8b653cc805620a6d112c1ff0c7386527fb294"
+  },
+  {
+    "id": "d7bb13a3-8bf5-48cb-aa71-0d3d03049621",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:28:22.791981+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "177a6105bd2e70a21fe097b99d119f0fb57e3076"
+  },
+  {
+    "id": "586d9da6-1bfa-4bc0-9bf1-9fce11ad384c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:29:30.161796+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "8e97592dbcd9b3bdb3505bffc99a0580cf97af65"
+  },
+  {
+    "id": "6232febe-42bc-4644-a0b2-9d39b76d937a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:30:37.956229+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "b69aa0c9bdecc65aedd6feb968661a8082159a87"
+  },
+  {
+    "id": "e295dee6-859d-4037-b309-fe49ef9577a9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:31:45.950272+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "e0dd63479f03f4c734fd20cc6bb1a71a1284850f"
+  },
+  {
+    "id": "67ba84d3-2e9b-4d47-8872-a475180ed260",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:32:54.145986+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "eac1b5c601561504f67599136e6b913745d3d48b"
+  },
+  {
+    "id": "c189db2f-fdaa-4fd8-9d53-b7b0dd7c0522",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:34:01.425713+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "6db5db342ea84b6882177d9a39331cf10caf55a1"
+  },
+  {
+    "id": "8b9545a4-9c26-4b51-8480-79b389aafb2b",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:35:10.109988+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "f1b8304718a7137d3c6e090e7c8fd103849bf88e"
+  },
+  {
+    "id": "0d8149e4-c60f-4331-ad30-17c514a27c98",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:36:18.233886+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "be55aeb9440d84acc86fe90cd3d98d3d84865280"
+  },
+  {
+    "id": "27313299-63d0-470c-a640-a3dcc8f12574",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:37:26.931370+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "88d1576a2bc01f4f781a5a67a600ce08f2a2ab85"
+  },
+  {
+    "id": "b8607875-5bcc-40b7-872a-8c279749e8dc",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:38:34.020708+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a8421440e611d15deb49facd12beba4c4a84c339"
+  },
+  {
+    "id": "d1853734-8552-4ae4-8577-db713e47ba43",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:39:41.936968+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "ff407181792c4c1d6c4de8401ea7aea32120b261"
+  },
+  {
+    "id": "3e475ca2-e9fd-4686-85fd-ff27f5eb1648",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:40:49.905636+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "71cb6099865ecb43896d17052c5fade16de858f8"
+  },
+  {
+    "id": "e1eb7775-6b3a-4f53-8d78-ab86947331e3",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:41:57.674281+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "29cb3ddb9004a41ca4334f73f7c3bc8131456ef6"
+  },
+  {
+    "id": "18122eaa-e628-4471-8c4f-0a9e367185d4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:43:05.375443+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "4afa5c98dc55f7510987c3f29827328b8cd7f2f4"
+  },
+  {
+    "id": "60e66b5c-81ab-4065-888b-0e56dcfca69c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:44:13.267264+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a9a13afd8452b9d64b3bff219517bbf879319f9c"
+  },
+  {
+    "id": "524d7044-57e2-40aa-b129-8fc803e25315",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:45:21.319761+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "3f1dddd4f0c6191efff1940f7f47102db28231f8"
+  },
+  {
+    "id": "399b3272-57e1-4432-959d-500857772ee7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:46:29.982729+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "33b5c369acccfff559cdfd20db751e26c3533b99"
+  },
+  {
+    "id": "e30f4b88-c5a0-4ffd-b3b7-53c64a0743c4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:47:38.100013+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "09ea265559da8bb3889b43f2771130a4723bda3f"
+  },
+  {
+    "id": "34550f0a-5ace-492d-bb87-6a44bc2334db",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:48:45.355780+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "f435c247ea0a21479b990ca53f03ab92b9a4065e"
+  },
+  {
+    "id": "103fdb01-bb06-41b5-a67c-1c0d06568f80",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:49:52.523634+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "8479a77c2af006e1e8a93c97acd7f841ef073b20"
+  },
+  {
+    "id": "38de59f6-89ee-4ed1-9dd4-0a61cbe69aae",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:50:59.705118+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "17542a8de93dad1985693e79498b739d43256751"
+  },
+  {
+    "id": "6ef7427a-fe3f-4802-af96-af68759a9b71",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:52:07.079569+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a5aa8336fd14b16e7233001d7bed658e5e46b87f"
+  },
+  {
+    "id": "0c2aa9d9-0535-4afa-bd56-11072a1bf1c3",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:53:14.715833+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "efb79d98b613ccd037647a7023dfac3dec648349"
+  },
+  {
+    "id": "b19b66c9-3563-45c4-b136-963376237a8e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:54:22.250348+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "2e07a1f507fba8411a878e6bc307108eacc90526"
+  },
+  {
+    "id": "de8a3b66-efde-4994-af96-20fa6a00a02a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:55:30.862967+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "0c82c9eef9edb8e47869c98a8d07b1dc8983b157"
+  },
+  {
+    "id": "c2ef734f-6903-4174-832e-89af72b57e05",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:56:38.031399+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "24329c2bba1cc238443844f919254ba6b5a5d8dc"
+  },
+  {
+    "id": "1b257ee9-e4ed-4d8b-8937-7b284da5788d",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:57:48.085888+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "9a07283d9ae36f6d1f6ea3d64f96169b053b7465"
+  },
+  {
+    "id": "10ee0905-a231-4113-aa59-202b4b18b3ad",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T10:58:57.002974+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "744e952dd4633fc7901cb4b76346d1990857d733"
+  },
+  {
+    "id": "c2ab4e3b-628b-4a21-8e22-15b25125cb3c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:00:06.016939+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "ee5fb61da5ce34cb5650bd9749ac6a4937d72399"
+  },
+  {
+    "id": "2c86dcaf-7bf9-42a5-ba57-c6e204b5045e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:01:14.059686+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "7811f378a6509d873d6b55c01949f97003b2b619"
+  },
+  {
+    "id": "bbec14ad-4d38-4211-a726-6b9bf7f8ffb9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:02:22.145407+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "2ef0342e50bbab9959db6ce875ad8824be2ebabc"
+  },
+  {
+    "id": "0b987106-a667-494b-a720-38ee28572ed1",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:03:30.409582+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "dea83644757c0d92fbe77d258a1170b6d5b11d15"
+  },
+  {
+    "id": "b5482ee1-5e1c-40ba-aa28-7bdde1f4baab",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:04:38.253141+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "5a67d1e839228cb1a9464b9b0a73c68b3290e9df"
+  },
+  {
+    "id": "81bbd6e6-d4b7-4ac8-8e02-674f8cd35793",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:05:45.665741+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "17b53dadc595a9653890d772200a440c052cba75"
+  },
+  {
+    "id": "d6c61c5b-5189-4b32-80fa-564cf84af1ee",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:06:53.156857+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "6ad335328caa817ae23a29d6478b57b98c787899"
+  },
+  {
+    "id": "f1f724b5-e52a-48b9-bc04-808793c02e3e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:08:01.310030+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "de1624fc24e54ea9d7a567c2acda7e6030727bf3"
+  },
+  {
+    "id": "b68be59e-aaab-4152-b8fb-323d8d5543a1",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:09:09.379612+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "4d7197560ab382a636edce4f93aaab42da3688cb"
+  },
+  {
+    "id": "7f38ec2e-c873-428b-897c-f3e4375f32f5",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:10:17.319315+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "63af421139f50f7498d0ca2a7a91abe00346a9ba"
+  },
+  {
+    "id": "fa4a75fb-f19c-4b62-8eb2-ee5ece275f44",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:11:25.035408+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "fabfa2809f3241472b3f6bf5b49889f556fb4004"
+  },
+  {
+    "id": "1cd4f87c-3942-4757-b8df-bf4dd8eb5dc9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:12:33.348786+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "430dd076fbe2c61adb443c30bc483db8e3d57790"
+  },
+  {
+    "id": "169ed83d-034c-4e78-bc38-a6a4be3ad86e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:13:41.950922+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "0bd0ab518f50655560065692975d33ce0071aa09"
+  },
+  {
+    "id": "f327937d-13dc-4b91-b742-7b430ae24baa",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:14:50.390832+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "f57c1453a2ff43c79c3119dbba90094663755aa0"
+  },
+  {
+    "id": "46dafdb8-b52a-4368-abcb-36b0d32cddf4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:15:58.346680+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "9b07c0a5bded77a294982eb9c4d638b8e82ce634"
+  },
+  {
+    "id": "353b3861-32f4-4aae-9d36-4a13c03ea0b7",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:17:06.640978+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "f1a6eb23dbf3e691e96917913e65710fab449f78"
+  },
+  {
+    "id": "76c5d927-1567-4f0b-a35d-1234f3e99842",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:18:15.574658+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "099058819954607797934f0f339398edc0ddc0f8"
+  },
+  {
+    "id": "9c644042-e0d5-4b88-9fbb-44b8f4cd892f",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:19:23.654308+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "764c7a96a9aa4de20ac80b889a9cf58dd5569e85"
+  },
+  {
+    "id": "a57d5b45-c6fb-4dd4-abde-3acd0b495e11",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:20:31.837528+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "e0256104bb343d2ff0810ed5748f41e5654516e8"
+  },
+  {
+    "id": "c0b72838-d47b-46ba-a285-f9374de48249",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:21:39.690309+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "457d945014d9b9c21526702ee5a9970a45217e26"
+  },
+  {
+    "id": "8b421b05-af7e-46ba-b0b3-fdb47f298914",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:22:47.127304+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "43cb75fc1ae68407ea3668c8f98faee1eba2ce41"
+  },
+  {
+    "id": "41825263-1d52-492a-8908-12773252a232",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:23:54.810982+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "402de0973ab376e20d6bbe09c7e84d9f4bffc49e"
+  },
+  {
+    "id": "b04abf1a-a019-46d4-951b-ef86ee7bef83",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:25:03.221415+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "4578b0c96fa7c9064ce928635ed23caeded2afed"
+  },
+  {
+    "id": "55560a26-d3fe-4797-89d4-a04b69cdfaee",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:26:11.105637+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "59c6481e0d6ff0d283dcd795b5f451117e5454ba"
+  },
+  {
+    "id": "01bee2bc-1ebb-4b06-aef3-84c788f8b27a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:27:21.945472+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "806b382fb187b1b2b41fee5798932931df0f722f"
+  },
+  {
+    "id": "47cf76ae-f979-4d8b-af10-38458e42d24a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:28:30.377738+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "26d5e243bad37c63fdc8241ebcd066efe1f83140"
+  },
+  {
+    "id": "7bcb32d5-ff29-4c57-bf3b-46dbc4c905b5",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:29:38.031563+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "32127d0024566b266af75db3b6fe0ecdd56b2649"
+  },
+  {
+    "id": "456476a7-2c94-4ffb-8813-50c813203260",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:30:46.297246+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "7ff34291ffbf3dbbb43baea4aba972b6c604854b"
+  },
+  {
+    "id": "a7546b5f-1a99-44bd-bd3f-363fe07b5548",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:31:53.748993+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "b03d096ecb1e6598f695a6d4d330449ac0f57e43"
+  },
+  {
+    "id": "081c7325-80ac-4346-97a1-69242b7efa62",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:33:02.041310+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "c8c4d333f10508d69b953879868f09e5074eeedf"
+  },
+  {
+    "id": "92b3292d-1499-4734-af29-ee841a074506",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:34:10.354009+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "e8ccd1e1e6da4582833b0fa5dc2d689725f74497"
+  },
+  {
+    "id": "d50af35e-ff21-4d35-a9db-ee2afb12d2e3",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:35:19.118994+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "5b695f4bdb775b7322ab7b3b5235e13d1355968b"
+  },
+  {
+    "id": "46de41ef-6ba6-465b-a761-072b9e168fe4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:36:27.764096+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "cd6cc69b47c298a10ff9588319b64f2be2bc94d5"
+  },
+  {
+    "id": "9a169085-63d3-4d24-9418-fddfc731b468",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:37:37.570583+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "143b175decef98aa4b80ef6296246301d2977d86"
+  },
+  {
+    "id": "d7bf9313-2fcf-4604-a6bb-44aa63d45086",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:38:45.091732+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "92dfc2c36e72e7846793d00e54ac97381d471e7a"
+  },
+  {
+    "id": "9e2d7664-49fa-432b-9750-5e0637701ccc",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:39:52.985365+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "56bd84813f3417ba36896a73300cb6c8bfab2c43"
+  },
+  {
+    "id": "5bfbeaec-6ed5-4bbe-a2b4-ba6164a71ae3",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:41:00.981248+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "1c23396ed4ad42d843701fd8e5d1652e505d9d6c"
+  },
+  {
+    "id": "97de9302-76c6-45a0-b534-a73b1d708a9e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:42:08.976680+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "0c5f07b7bfecdcbf034448ff06b78c6a40ddacc9"
+  },
+  {
+    "id": "cbbaf712-a2d2-4d33-a553-6cf752aa6a4e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T11:43:19.734631+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "0a1b0cd4abed9bffe507feaa866b1337e3ca0791"
+  },
+  {
+    "id": "d22a06d5-d2d2-4061-95de-22f6a5cabae5",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:47:50.967310+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "3dfb3bee8dbcc304a3cd7e798af130db589b7fcf"
+  },
+  {
+    "id": "b8353040-faa3-4654-9e4e-3e2a6cad01a0",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:48:59.141187+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "130f74bda5f5d5684365a114c4310b21f2c4e140"
+  },
+  {
+    "id": "3ce166bd-b506-4bd8-b021-089fa522143f",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:50:07.623818+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "e89f8750670455e56a05cd6615e97127b49fe789"
+  },
+  {
+    "id": "1f265f2b-bb3e-4b35-b102-110a9a3436fe",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:51:16.530945+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "842f337e563c91e94ba7364f00168398fd00354d"
+  },
+  {
+    "id": "b5817dc2-da4e-47f4-b77a-65073a653f44",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:52:24.907019+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "9f3787733dc30439a5c9dbea34b73527e7f0854a"
+  },
+  {
+    "id": "ea333843-d1f5-490b-83ba-d8cf3a5f8949",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:53:33.399321+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "93d50e45fe5a304b34c12cd8a8302fae6078ee4d"
+  },
+  {
+    "id": "e29d2690-bece-429c-9eb9-d0bbd5fa096e",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:54:41.703876+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "a0e06610852fd1790574c5559bc3e8fcbd4d47e9"
+  },
+  {
+    "id": "293b6013-1b37-47ab-8303-7e106ea0df66",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:55:50.147014+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "7caf91e39a2c394ed0e108cb1e932e75a7da29ad"
+  },
+  {
+    "id": "3b94bde4-801e-4b1c-82c8-a75c29e2cf3d",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:56:58.605010+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "7e9e88a1d82c82e28977594ed06ee38405de0df1"
+  },
+  {
+    "id": "48273e1d-02ea-4af6-a3c7-ee17c0a7b88a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:58:09.474593+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "8003b0658b6c95e7bda09e938ff3fc3aac9a7c68"
+  },
+  {
+    "id": "706cd3d1-cb50-4fd6-b1e2-e60f59193024",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T12:59:18.283300+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "457d97edca350fed8ed58379e14323e054f43174"
+  },
+  {
+    "id": "c58faefa-4fed-4a91-b264-b0bb5fc27bf8",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T13:00:27.613645+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "3e5dc6eb372f05e4570bc92ffc974fd8a611f0a0"
+  },
+  {
+    "id": "f6a20dd4-e46b-4345-a159-500ccd418f84",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T13:01:36.116001+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "40"
+    },
+    "description": "40 space-weather events in the last pull",
+    "fingerprint": "604c7b911584c71a2b29b4bb75a6c5a986b99891"
+  },
+  {
+    "id": "9fa85e28-ff66-4eb7-bdf6-381713a94232",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:52:57.696736+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "49a4f608240059e44b9937d41e32357bc8841bb4"
+  },
+  {
+    "id": "f7b3656a-5f18-4103-a68d-715b0e3281c9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:54:06.161270+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "e3a8465a6904694a4ede98bb7fc5dca3a3a5cc68"
+  },
+  {
+    "id": "13c4a32a-daba-4b20-84d2-9a77f9f07dab",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:55:14.249991+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "385f6168fbf6766ac1e8721e2dade129b53e9a9e"
+  },
+  {
+    "id": "77973ac3-d839-438f-b218-23c02f14775c",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:56:22.343083+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "7bb76c6cedeb0b5090a86c0ddca16a4adcf623fd"
+  },
+  {
+    "id": "5fb305d5-bb50-4aaf-ac87-9624b3d4804b",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:57:30.673635+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "a5c9f2576501b8ab30f7f613e4f8327c83640bd5"
+  },
+  {
+    "id": "83cd4f34-3d37-4515-b4cd-06ee6d182a22",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T18:58:38.804307+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "ee1dd6338f105153b43d5cef0850c7850bda01a8"
+  },
+  {
+    "id": "711fc3dd-d5d0-42da-8c9b-783d939a46da",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:01:49.071186+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "7b2b3dc2269ab026059bb14dd477a6789f3ec2d9"
+  },
+  {
+    "id": "4f7eea19-6f1e-429e-8a29-455bffe37a09",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:02:57.549141+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "bbc070f83cb65e862d218a3c5de00bb5dede6fff"
+  },
+  {
+    "id": "589ab2a4-4dae-4c82-bce8-70cd415c1c69",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:10:23.052119+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "ce2753a6e94333d2eaaa51b01a4c31f5b99e1d65"
+  },
+  {
+    "id": "b1ae494e-0d14-4a1e-9af8-f414478bb203",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:11:31.746354+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "2ac750133bf75c58c3562d86902ecae421c7447b"
+  },
+  {
+    "id": "3df86721-1d30-487b-bbe1-ece5f3952bf9",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:12:40.137550+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "ba214554e3829881fec8addd0121a1dbd48eef97"
+  },
+  {
+    "id": "eaaa80d0-028c-4a52-a41f-011fa4676108",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:13:49.229090+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "c5a6b06dacf8785a144361f0363a2d8742c3b9f6"
+  },
+  {
+    "id": "c719eed2-3269-4b44-ac5e-b9e10cadf077",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:16:54.630324+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "c2bdee4f3db0fa3b9e9871880a38c7256ebf15cc"
+  },
+  {
+    "id": "33ca090f-11dc-42d6-9932-1e4e7f3348ff",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:18:03.031398+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "6e6dde4da5d78a752e806248b00ba9d3db5da2dd"
+  },
+  {
+    "id": "1e4afa42-ea48-465b-8a7a-5d345bd51ddf",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:19:11.520964+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "8a6476d0c1c3bab2f93a6a5e6076a6bb195ed0ce"
+  },
+  {
+    "id": "b4ce0453-5890-4d27-b7bf-ed1db48a70a4",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:20:20.724134+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "cf2dfad115ff5d184037a9c1e4ec0dbe30bafd46"
+  },
+  {
+    "id": "8045affe-51aa-46d8-8101-d2be6c2d05b2",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:21:28.987653+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "3d5d55ea565ca5870b8e4c52f905ab13ee7fe2a5"
+  },
+  {
+    "id": "bd9c8742-c814-40aa-a394-ae2752211ffb",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:32:27.307255+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "a9ad91afec032dd30b9e0a878e15de96c66b4a15"
+  },
+  {
+    "id": "26a339cc-c8ec-4411-ab2d-4865a9a18699",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:33:36.928435+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "8a6353365960d3d2d10b27e13810ca291b214fc9"
+  },
+  {
+    "id": "d26f0236-cf4b-4a59-9901-e35b12d3e88a",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:39:11.267635+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "57e2c57a63ba9dd6fd3f62354a863ea59bf4fb5f"
+  },
+  {
+    "id": "c13e563a-03c5-4abd-bcd8-d1f573442517",
+    "source": "DONKI",
+    "type": "Rate Anomaly",
+    "severity": "LOW",
+    "timestamp": "2025-08-29T19:40:20.227660+00:00",
+    "entity_id": null,
+    "labels": {
+      "rate": "42"
+    },
+    "description": "42 space-weather events in the last pull",
+    "fingerprint": "72ce86294e3a77a43ecef75a065543c90af5092a"
+  }
+]

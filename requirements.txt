@@ -1,0 +1,13 @@
+streamlit
+pandas
+folium
+streamlit-folium
+pydantic
+requests
+PyYAML
+streamlit-autorefresh
+scikit-learn
+numpy
+python-dotenv
+bcrypt
+pydeck

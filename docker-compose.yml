@@ -1,0 +1,46 @@
+services:
+  dashboard:
+    build: .
+    container_name: cybernova_dashboard
+    environment:
+      - NASA_API_KEY=${NASA_API_KEY}
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data       # keep live data
+      - ./app:/app/app         # 👈 mount app folder (auth.py, users.yaml, theme.css, etc.)
+    depends_on:
+      - generator
+      - nasa_ingest
+      - noaa_ingest
+      - aviation_ingest
+
+  generator:
+    build: .
+    container_name: cybernova_generator
+    command: python -m app.generator
+    volumes:
+      - ./data:/app/data
+
+  nasa_ingest:
+    build: .
+    container_name: cybernova_nasa
+    command: python -m app.nasa_ingest
+    environment:
+      - NASA_API_KEY=${NASA_API_KEY}
+    volumes:
+      - ./data:/app/data
+
+  noaa_ingest:
+    build: .
+    container_name: cybernova_noaa
+    command: python -m app.noaa_swpc_ingest
+    volumes:
+      - ./data:/app/data
+
+  aviation_ingest:
+    build: .
+    container_name: cybernova_aviation
+    command: python -m app.aviation_ingest
+    volumes:
+      - ./data:/app/data
