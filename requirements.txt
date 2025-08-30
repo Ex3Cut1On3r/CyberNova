@@ -11,3 +11,5 @@ numpy
 python-dotenv
 bcrypt
 pydeck
+fastapi
+uvicorn[standard]

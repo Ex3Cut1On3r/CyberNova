@@ -1,0 +1,29 @@
+%YAML 1.1
+---
+vars:
+  address-groups:
+    HOME_NET: "[10.0.0.0/8,192.168.0.0/16]"
+    EXTERNAL_NET: "any"
+
+default-rule-path: /etc/suricata/rules
+rule-files:
+  - local.rules
+
+outputs:
+  - eve-log:
+      enabled: yes
+      filetype: regular
+      filename: /var/log/suricata/eve.json
+      community-id: yes
+      types:
+        - alert:
+            payload: no
+            payload-printable: no
+            metadata: yes
+            tagged-packets: no
+        - stats:
+            totals: yes
+        - flow
+        - http
+        - dns
+        - tls

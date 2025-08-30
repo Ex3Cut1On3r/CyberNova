@@ -5,5 +5,425 @@
     "severity": "MEDIUM",
     "type": "DDoS Anomaly",
     "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:16:04.563824Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:16:35.066613Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:16:51.850036Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T04:17:06.456988Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:17:14.294537Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T04:17:17.137891Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:17:25.422274Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:30.030830Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:31.173857Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:32.144418Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:50.794170Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:52.488215Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:21:59.932724Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:22:00.789968Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:22:01.717544Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:22:05.836450Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:22:06.682561Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:59:15.919157Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T04:59:17.366011Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T04:59:24.106596Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T04:59:34.780023Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:01:58.425214Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:02:02.148185Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T05:02:21.671564Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:05:51.374837Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:06:02.309983Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T05:06:03.746910Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T05:06:06.020184Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T05:06:07.554914Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:06:07.825816Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:15:52.019583Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:15:57.596110Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T05:15:58.254432Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T05:34:00.477784Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:34:01.532412Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T05:34:02.684947Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T05:34:07.034665Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T05:46:46.395471Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:04:22.496519Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:04:23.199745Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:04:24.166826Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T06:37:37.336768Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:37:38.870288Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:37:39.717328Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T06:38:08.875657Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:38:12.405606Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:38:13.328030Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T06:38:41.176750Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:38:44.179647Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:01.472813Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:02.328494Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:02.998200Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:07.338887Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:09.508045Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:19.013049Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:20.517308Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30T06:39:21.990703Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:41:05.235404Z",
+    "source": "Network Monitor",
+    "severity": "MEDIUM",
+    "type": "DDoS Anomaly",
+    "description": "Unusual network spike detected."
+  },
+  {
+    "timestamp": "2025-08-30T06:41:06.716325Z",
+    "source": "Simulator",
+    "severity": "HIGH",
+    "type": "GPS Spoofing",
+    "description": "GPS coordinates near Beirut Airport manipulated."
+  },
+  {
+    "timestamp": "2025-08-30T06:41:07.686140Z",
+    "source": "NASA/NOAA",
+    "severity": "CRITICAL",
+    "type": "Solar Flare",
+    "description": "Solar flare detected \u2014 comms disruption possible."
   }
 ]

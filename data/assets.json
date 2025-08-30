@@ -1,0 +1,10 @@
+{
+  "assets": [
+    {
+      "name": "Airport Terminal 1",
+      "ips": ["192.168.56.101"],
+      "segment": "airport",
+      "type": "vm"
+    }
+  ]
+}

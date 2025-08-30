@@ -1,0 +1,29 @@
+# --- Baseline Test (matches all IP traffic) ---
+alert ip any any -> any any (msg:"[TEST] Generic IP traffic detected"; sid:1000001; rev:1;)
+
+# --- Generic HTTP GET (any GET request) ---
+alert http any any -> any any (http.method; content:"GET"; nocase; msg:"[HTTP] GET request detected"; sid:1000002; rev:1;)
+
+# --- Generic HTTP POST (any POST request) ---
+alert http any any -> any any (http.method; content:"POST"; nocase; msg:"[HTTP] POST request detected"; sid:1000003; rev:1;)
+
+# --- Curl User-Agent (curl command from VM) ---
+alert http any any -> any any (http.user_agent; content:"curl"; nocase; msg:"[HTTP] curl User-Agent detected"; sid:1000004; rev:1;)
+
+# --- Suspicious URI containing /gnss/spoof (GNSS spoof demo) ---
+alert http any any -> any any (http.uri; content:"/gnss/spoof"; nocase; msg:"[GNSS] Spoof command detected"; sid:1000005; rev:1;)
+
+# --- Suspicious URI containing /c2beacon (Command & Control demo) ---
+alert http any any -> any any (http.uri; content:"/c2beacon"; nocase; msg:"[C2] Beacon traffic detected"; sid:1000006; rev:1;)
+
+# --- Detect long DNS queries (exfiltration demo) ---
+alert dns any any -> any any (dns.query; content:".exfil."; nocase; msg:"[DNS] Possible DNS exfiltration"; sid:1000007; rev:1;)
+
+# --- SSH brute-force (lots of TCP SYNs to port 22) ---
+alert tcp any any -> any 22 (flags:S; threshold:type both, track by_src, count 5, seconds 60; msg:"[SSH] Possible brute force attempt"; sid:1000008; rev:1;)
+
+# --- ICMP Ping detection (useful for demo) ---
+alert icmp any any -> any any (msg:"[ICMP] Ping detected"; sid:1000009; rev:1;)
+
+# --- Generic TLS detection (any TLS handshake) ---
+alert tls any any -> any any (msg:"[TLS] TLS handshake observed"; sid:1000010; rev:1;)

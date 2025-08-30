@@ -1,19 +1,26 @@
+version: "3.9"
+
 services:
   dashboard:
     build: .
     container_name: cybernova_dashboard
+    command: streamlit run app/app.py --server.port=8501 --server.address=0.0.0.0
     environment:
-      - NASA_API_KEY=${NASA_API_KEY}
+      - NASA_API_KEY=${NASA_API_KEY:-DEMO}
+      - STREAMLIT_BROWSER_GATHERUSAGESTATS=false
     ports:
       - "8501:8501"
     volumes:
-      - ./data:/app/data       # keep live data
-      - ./app:/app/app         # 👈 mount app folder (auth.py, users.yaml, theme.css, etc.)
+      - ./data:/app/data
+      - ./app:/app/app
     depends_on:
       - generator
       - nasa_ingest
       - noaa_ingest
       - aviation_ingest
+      - events
+      - suricata_ingest
+    restart: unless-stopped
 
   generator:
     build: .
@@ -21,15 +28,17 @@ services:
     command: python -m app.generator
     volumes:
       - ./data:/app/data
+    restart: unless-stopped
 
   nasa_ingest:
     build: .
     container_name: cybernova_nasa
     command: python -m app.nasa_ingest
     environment:
-      - NASA_API_KEY=${NASA_API_KEY}
+      - NASA_API_KEY=${NASA_API_KEY:-DEMO}
     volumes:
       - ./data:/app/data
+    restart: unless-stopped
 
   noaa_ingest:
     build: .
@@ -37,6 +46,7 @@ services:
     command: python -m app.noaa_swpc_ingest
     volumes:
       - ./data:/app/data
+    restart: unless-stopped
 
   aviation_ingest:
     build: .
@@ -44,3 +54,40 @@ services:
     command: python -m app.aviation_ingest
     volumes:
       - ./data:/app/data
+    restart: unless-stopped
+
+  suricata:
+    image: jasonish/suricata:7.0
+    container_name: cybernova_suricata
+    command: [ "suricata","-c","/etc/suricata/suricata.yaml","-r","/pcaps/demo.pcap","-l","/var/log/suricata" ]
+    volumes:
+      - ./ids/suricata.yaml:/etc/suricata/suricata.yaml:ro
+      - ./ids/rules:/etc/suricata/rules:ro
+      - ./pcaps:/pcaps:ro
+      - ./data/suricata:/var/log/suricata
+    restart: unless-stopped
+
+
+
+
+  suricata_ingest:
+    build: .
+    container_name: cybernova_suricata_ingest
+    command: python -m app.suricata_ingest
+    volumes:
+      - ./data:/app/data
+    depends_on:
+      - suricata
+    restart: unless-stopped
+
+  events:
+    build: .
+    container_name: cybernova_events
+    command: uvicorn app.events_server:app --host 0.0.0.0 --port 8080 --reload
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8080:8080"
+    depends_on:
+      - suricata_ingest
+    restart: unless-stopped
