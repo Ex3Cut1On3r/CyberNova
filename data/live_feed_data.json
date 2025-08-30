@@ -1768,5 +1768,61 @@
     "data_volume_kb": 250000,
     "src": "192.168.1.100",
     "dst": "10.0.0.5"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:24",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "GPS Spoofing",
+    "coordinates": "33.901, 35.578",
+    "signal_strength": 64
+  },
+  {
+    "timestamp": "2025-08-30 10:51:29",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "Signal Jamming",
+    "coordinates": "33.808, 35.536",
+    "signal_strength": 37
+  },
+  {
+    "timestamp": "2025-08-30 10:51:38",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "Signal Jamming",
+    "coordinates": "33.886, 35.642",
+    "signal_strength": 23
+  },
+  {
+    "timestamp": "2025-08-30 10:51:40",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "GPS Spoofing",
+    "coordinates": "33.868, 35.619",
+    "signal_strength": 77
+  },
+  {
+    "timestamp": "2025-08-30 10:51:42",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "GPS Spoofing",
+    "coordinates": "33.865, 35.600",
+    "signal_strength": 72
+  },
+  {
+    "timestamp": "2025-08-30 10:54:33",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "GPS Spoofing",
+    "coordinates": "33.861, 35.502",
+    "signal_strength": 80
+  },
+  {
+    "timestamp": "2025-08-30 10:54:34",
+    "system": "GNSS",
+    "status": "COMPROMISED",
+    "threat_type": "Signal Jamming",
+    "coordinates": "33.937, 35.505",
+    "signal_strength": 37
   }
 ]

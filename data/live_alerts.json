@@ -425,5 +425,89 @@
     "severity": "CRITICAL",
     "type": "Solar Flare",
     "description": "Solar flare detected \u2014 comms disruption possible."
+  },
+  {
+    "timestamp": "2025-08-30 10:51:24",
+    "severity": "CRITICAL",
+    "type": "GPS Spoofing",
+    "description": "Malicious GPS signal injection detected - coordinates being manipulated",
+    "source": "GNSS Monitor",
+    "host": "192.168.56.101",
+    "reason": "Suspicious coordinate deviation beyond threshold",
+    "details": "Fake GPS signals targeting receiver at 192.168.56.101",
+    "id": "ALERT_1380",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:29",
+    "severity": "HIGH",
+    "type": "Signal Jamming",
+    "description": "Radio frequency jamming attack in progress",
+    "source": "RF Analyzer",
+    "host": "192.168.56.101",
+    "reason": "Abnormal signal attenuation detected",
+    "details": "Broadband interference affecting multiple frequencies near 192.168.56.101",
+    "id": "ALERT_5031",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:38",
+    "severity": "HIGH",
+    "type": "Signal Jamming",
+    "description": "Radio frequency jamming attack in progress",
+    "source": "RF Analyzer",
+    "host": "192.168.56.101",
+    "reason": "Abnormal signal attenuation detected",
+    "details": "Broadband interference affecting multiple frequencies near 192.168.56.101",
+    "id": "ALERT_8308",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:40",
+    "severity": "CRITICAL",
+    "type": "GPS Spoofing",
+    "description": "Malicious GPS signal injection detected - coordinates being manipulated",
+    "source": "GNSS Monitor",
+    "host": "192.168.56.101",
+    "reason": "Suspicious coordinate deviation beyond threshold",
+    "details": "Fake GPS signals targeting receiver at 192.168.56.101",
+    "id": "ALERT_8027",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:42",
+    "severity": "CRITICAL",
+    "type": "GPS Spoofing",
+    "description": "Malicious GPS signal injection detected - coordinates being manipulated",
+    "source": "GNSS Monitor",
+    "host": "192.168.56.101",
+    "reason": "Suspicious coordinate deviation beyond threshold",
+    "details": "Fake GPS signals targeting receiver at 192.168.56.101",
+    "id": "ALERT_8381",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:54:33",
+    "severity": "CRITICAL",
+    "type": "GPS Spoofing",
+    "description": "Malicious GPS signal injection detected - coordinates being manipulated",
+    "source": "GNSS Monitor",
+    "host": "192.168.56.101",
+    "reason": "Suspicious coordinate deviation beyond threshold",
+    "details": "Fake GPS signals targeting receiver at 192.168.56.101",
+    "id": "ALERT_7171",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:54:34",
+    "severity": "HIGH",
+    "type": "Signal Jamming",
+    "description": "Radio frequency jamming attack in progress",
+    "source": "RF Analyzer",
+    "host": "192.168.56.101",
+    "reason": "Abnormal signal attenuation detected",
+    "details": "Broadband interference affecting multiple frequencies near 192.168.56.101",
+    "id": "ALERT_5686",
+    "status": "active"
   }
 ]

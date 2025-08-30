@@ -1,7 +1,7 @@
 [
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:00:29.869994+00:00",
+    "timestamp": "2025-08-30T11:37:06.331153+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -45,7 +45,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:00:29.869996+00:00",
+    "timestamp": "2025-08-30T11:37:06.331210+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -185,7 +185,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:00:29.869998+00:00",
+    "timestamp": "2025-08-30T11:37:06.331218+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -229,7 +229,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:00:29.870000+00:00",
+    "timestamp": "2025-08-30T11:37:06.331222+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -293,6 +293,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -303,12 +340,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:01:36.269914+00:00",
+    "timestamp": "2025-08-30T11:38:12.880616+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -333,7 +376,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:01:36.269933+00:00",
+    "timestamp": "2025-08-30T11:38:12.880683+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -358,7 +401,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:01:36.269935+00:00",
+    "timestamp": "2025-08-30T11:38:12.880687+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -383,7 +426,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:01:36.269937+00:00",
+    "timestamp": "2025-08-30T11:38:12.880689+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -408,7 +451,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:01:36.269938+00:00",
+    "timestamp": "2025-08-30T11:38:12.880691+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -433,7 +476,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.269940+00:00",
+    "timestamp": "2025-08-30T11:38:12.880695+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -486,7 +529,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270011+00:00",
+    "timestamp": "2025-08-30T11:38:12.880697+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -536,7 +579,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270049+00:00",
+    "timestamp": "2025-08-30T11:38:12.880699+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -589,7 +632,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270054+00:00",
+    "timestamp": "2025-08-30T11:38:12.880701+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -642,7 +685,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270056+00:00",
+    "timestamp": "2025-08-30T11:38:12.880704+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -686,7 +729,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270057+00:00",
+    "timestamp": "2025-08-30T11:38:12.880706+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -749,7 +792,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270059+00:00",
+    "timestamp": "2025-08-30T11:38:12.880783+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -796,7 +839,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270060+00:00",
+    "timestamp": "2025-08-30T11:38:12.883222+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -843,7 +886,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270062+00:00",
+    "timestamp": "2025-08-30T11:38:12.883235+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -890,7 +933,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270063+00:00",
+    "timestamp": "2025-08-30T11:38:12.883238+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -969,7 +1012,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270065+00:00",
+    "timestamp": "2025-08-30T11:38:12.883240+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1016,7 +1059,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270066+00:00",
+    "timestamp": "2025-08-30T11:38:12.884181+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1100,7 +1143,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270068+00:00",
+    "timestamp": "2025-08-30T11:38:12.884192+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1185,7 +1228,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270070+00:00",
+    "timestamp": "2025-08-30T11:38:12.884194+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1238,7 +1281,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270071+00:00",
+    "timestamp": "2025-08-30T11:38:12.884197+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1285,7 +1328,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270072+00:00",
+    "timestamp": "2025-08-30T11:38:12.884199+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1338,7 +1381,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270074+00:00",
+    "timestamp": "2025-08-30T11:38:12.884201+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1388,7 +1431,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270075+00:00",
+    "timestamp": "2025-08-30T11:38:12.884203+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1491,7 +1534,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270077+00:00",
+    "timestamp": "2025-08-30T11:38:12.884205+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1538,7 +1581,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270079+00:00",
+    "timestamp": "2025-08-30T11:38:12.884207+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1582,7 +1625,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270081+00:00",
+    "timestamp": "2025-08-30T11:38:12.884211+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1722,7 +1765,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270083+00:00",
+    "timestamp": "2025-08-30T11:38:12.884213+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1766,7 +1809,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:01:36.270084+00:00",
+    "timestamp": "2025-08-30T11:38:12.884215+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -1830,6 +1873,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -1840,12 +1920,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:02:43.476019+00:00",
+    "timestamp": "2025-08-30T11:39:19.462013+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -1870,7 +1956,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:02:43.476036+00:00",
+    "timestamp": "2025-08-30T11:39:19.462030+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -1895,7 +1981,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:02:43.476038+00:00",
+    "timestamp": "2025-08-30T11:39:19.462033+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -1920,7 +2006,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:02:43.476040+00:00",
+    "timestamp": "2025-08-30T11:39:19.462035+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -1945,7 +2031,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:02:43.476041+00:00",
+    "timestamp": "2025-08-30T11:39:19.462036+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -1970,7 +2056,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476043+00:00",
+    "timestamp": "2025-08-30T11:39:19.462039+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2023,7 +2109,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476045+00:00",
+    "timestamp": "2025-08-30T11:39:19.462040+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2073,7 +2159,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476047+00:00",
+    "timestamp": "2025-08-30T11:39:19.462042+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2126,7 +2212,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476049+00:00",
+    "timestamp": "2025-08-30T11:39:19.462044+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2179,7 +2265,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476051+00:00",
+    "timestamp": "2025-08-30T11:39:19.462046+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2223,7 +2309,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476053+00:00",
+    "timestamp": "2025-08-30T11:39:19.462047+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2286,7 +2372,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476055+00:00",
+    "timestamp": "2025-08-30T11:39:19.462049+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2333,7 +2419,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476057+00:00",
+    "timestamp": "2025-08-30T11:39:19.462050+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2380,7 +2466,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476058+00:00",
+    "timestamp": "2025-08-30T11:39:19.462052+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2427,7 +2513,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476060+00:00",
+    "timestamp": "2025-08-30T11:39:19.462053+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2506,7 +2592,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476062+00:00",
+    "timestamp": "2025-08-30T11:39:19.462055+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2553,7 +2639,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476063+00:00",
+    "timestamp": "2025-08-30T11:39:19.462056+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2637,7 +2723,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476065+00:00",
+    "timestamp": "2025-08-30T11:39:19.462058+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2722,7 +2808,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476067+00:00",
+    "timestamp": "2025-08-30T11:39:19.462060+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2775,7 +2861,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476068+00:00",
+    "timestamp": "2025-08-30T11:39:19.462061+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2822,7 +2908,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476069+00:00",
+    "timestamp": "2025-08-30T11:39:19.462063+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2875,7 +2961,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476071+00:00",
+    "timestamp": "2025-08-30T11:39:19.462064+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -2925,7 +3011,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476072+00:00",
+    "timestamp": "2025-08-30T11:39:19.462066+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3028,7 +3114,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476074+00:00",
+    "timestamp": "2025-08-30T11:39:19.462067+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3075,7 +3161,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476076+00:00",
+    "timestamp": "2025-08-30T11:39:19.462069+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3119,7 +3205,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476078+00:00",
+    "timestamp": "2025-08-30T11:39:19.462071+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3259,7 +3345,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476080+00:00",
+    "timestamp": "2025-08-30T11:39:19.462073+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3303,7 +3389,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:02:43.476082+00:00",
+    "timestamp": "2025-08-30T11:39:19.462074+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3367,6 +3453,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -3377,12 +3500,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:03:50.227271+00:00",
+    "timestamp": "2025-08-30T11:40:25.980716+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -3407,7 +3536,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:03:50.227287+00:00",
+    "timestamp": "2025-08-30T11:40:25.980734+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -3432,7 +3561,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:03:50.227290+00:00",
+    "timestamp": "2025-08-30T11:40:25.984856+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -3457,7 +3586,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:03:50.227292+00:00",
+    "timestamp": "2025-08-30T11:40:25.984862+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -3482,7 +3611,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:03:50.227293+00:00",
+    "timestamp": "2025-08-30T11:40:25.984865+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -3507,7 +3636,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227295+00:00",
+    "timestamp": "2025-08-30T11:40:25.984868+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3560,7 +3689,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227297+00:00",
+    "timestamp": "2025-08-30T11:40:25.984870+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3610,7 +3739,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227298+00:00",
+    "timestamp": "2025-08-30T11:40:25.984872+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3663,7 +3792,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227300+00:00",
+    "timestamp": "2025-08-30T11:40:25.984874+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3716,7 +3845,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227302+00:00",
+    "timestamp": "2025-08-30T11:40:25.984875+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3760,7 +3889,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227303+00:00",
+    "timestamp": "2025-08-30T11:40:25.984877+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3823,7 +3952,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227305+00:00",
+    "timestamp": "2025-08-30T11:40:25.984879+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3870,7 +3999,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227306+00:00",
+    "timestamp": "2025-08-30T11:40:25.984880+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3917,7 +4046,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227308+00:00",
+    "timestamp": "2025-08-30T11:40:25.984882+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -3964,7 +4093,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227309+00:00",
+    "timestamp": "2025-08-30T11:40:25.984884+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4043,7 +4172,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227311+00:00",
+    "timestamp": "2025-08-30T11:40:25.984885+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4090,7 +4219,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227313+00:00",
+    "timestamp": "2025-08-30T11:40:25.984887+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4174,7 +4303,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227314+00:00",
+    "timestamp": "2025-08-30T11:40:25.984889+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4259,7 +4388,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227316+00:00",
+    "timestamp": "2025-08-30T11:40:25.984890+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4312,7 +4441,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227317+00:00",
+    "timestamp": "2025-08-30T11:40:25.984892+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4359,7 +4488,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227319+00:00",
+    "timestamp": "2025-08-30T11:40:25.984894+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4412,7 +4541,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227320+00:00",
+    "timestamp": "2025-08-30T11:40:25.984895+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4462,7 +4591,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227323+00:00",
+    "timestamp": "2025-08-30T11:40:25.984897+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4565,7 +4694,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227324+00:00",
+    "timestamp": "2025-08-30T11:40:25.984899+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4612,7 +4741,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227326+00:00",
+    "timestamp": "2025-08-30T11:40:25.984901+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4656,7 +4785,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227328+00:00",
+    "timestamp": "2025-08-30T11:40:25.984903+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4796,7 +4925,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227329+00:00",
+    "timestamp": "2025-08-30T11:40:25.984905+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4840,7 +4969,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:03:50.227331+00:00",
+    "timestamp": "2025-08-30T11:40:25.984907+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -4904,6 +5033,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -4914,12 +5080,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:04:56.654935+00:00",
+    "timestamp": "2025-08-30T11:41:32.960029+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -4944,7 +5116,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:04:56.655072+00:00",
+    "timestamp": "2025-08-30T11:41:32.960050+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -4969,7 +5141,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:04:56.655133+00:00",
+    "timestamp": "2025-08-30T11:41:32.960053+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -4994,7 +5166,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:04:56.655142+00:00",
+    "timestamp": "2025-08-30T11:41:32.960055+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -5019,7 +5191,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:04:56.655145+00:00",
+    "timestamp": "2025-08-30T11:41:32.960056+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -5044,7 +5216,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655150+00:00",
+    "timestamp": "2025-08-30T11:41:32.960059+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5097,7 +5269,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655153+00:00",
+    "timestamp": "2025-08-30T11:41:32.960061+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5147,7 +5319,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655156+00:00",
+    "timestamp": "2025-08-30T11:41:32.960062+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5200,7 +5372,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655159+00:00",
+    "timestamp": "2025-08-30T11:41:32.960695+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5253,7 +5425,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655162+00:00",
+    "timestamp": "2025-08-30T11:41:32.960748+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5297,7 +5469,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655165+00:00",
+    "timestamp": "2025-08-30T11:41:32.960752+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5360,7 +5532,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655168+00:00",
+    "timestamp": "2025-08-30T11:41:32.960754+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5407,7 +5579,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655170+00:00",
+    "timestamp": "2025-08-30T11:41:32.960756+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5454,7 +5626,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655173+00:00",
+    "timestamp": "2025-08-30T11:41:32.961679+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5501,7 +5673,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655175+00:00",
+    "timestamp": "2025-08-30T11:41:32.961688+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5580,7 +5752,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655178+00:00",
+    "timestamp": "2025-08-30T11:41:32.961691+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5627,7 +5799,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655180+00:00",
+    "timestamp": "2025-08-30T11:41:32.961693+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5711,7 +5883,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655183+00:00",
+    "timestamp": "2025-08-30T11:41:32.961695+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5796,7 +5968,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655185+00:00",
+    "timestamp": "2025-08-30T11:41:32.961697+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5849,7 +6021,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655188+00:00",
+    "timestamp": "2025-08-30T11:41:32.961698+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5896,7 +6068,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655191+00:00",
+    "timestamp": "2025-08-30T11:41:32.961700+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5949,7 +6121,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655194+00:00",
+    "timestamp": "2025-08-30T11:41:32.961702+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -5999,7 +6171,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655196+00:00",
+    "timestamp": "2025-08-30T11:41:32.961704+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6102,7 +6274,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655199+00:00",
+    "timestamp": "2025-08-30T11:41:32.961705+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6149,7 +6321,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655236+00:00",
+    "timestamp": "2025-08-30T11:41:32.961707+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6193,7 +6365,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655241+00:00",
+    "timestamp": "2025-08-30T11:41:32.961709+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6333,7 +6505,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655244+00:00",
+    "timestamp": "2025-08-30T11:41:32.961711+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6377,7 +6549,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:04:56.655247+00:00",
+    "timestamp": "2025-08-30T11:41:32.961713+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6441,6 +6613,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -6451,12 +6660,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:06:03.292837+00:00",
+    "timestamp": "2025-08-30T11:42:39.579942+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -6481,7 +6696,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:06:03.292859+00:00",
+    "timestamp": "2025-08-30T11:42:39.579976+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -6506,7 +6721,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:06:03.292861+00:00",
+    "timestamp": "2025-08-30T11:42:39.579978+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -6531,7 +6746,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:06:03.292863+00:00",
+    "timestamp": "2025-08-30T11:42:39.579981+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -6556,7 +6771,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:06:03.292865+00:00",
+    "timestamp": "2025-08-30T11:42:39.579983+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -6581,7 +6796,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.292868+00:00",
+    "timestamp": "2025-08-30T11:42:39.579985+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6634,7 +6849,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295323+00:00",
+    "timestamp": "2025-08-30T11:42:39.579987+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6684,7 +6899,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295341+00:00",
+    "timestamp": "2025-08-30T11:42:39.579989+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6737,7 +6952,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295345+00:00",
+    "timestamp": "2025-08-30T11:42:39.579990+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6790,7 +7005,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295349+00:00",
+    "timestamp": "2025-08-30T11:42:39.579992+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6834,7 +7049,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295353+00:00",
+    "timestamp": "2025-08-30T11:42:39.579994+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6897,7 +7112,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295357+00:00",
+    "timestamp": "2025-08-30T11:42:39.579995+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6944,7 +7159,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295360+00:00",
+    "timestamp": "2025-08-30T11:42:39.579997+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -6991,7 +7206,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295363+00:00",
+    "timestamp": "2025-08-30T11:42:39.579998+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7038,7 +7253,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295366+00:00",
+    "timestamp": "2025-08-30T11:42:39.580000+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7117,7 +7332,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295368+00:00",
+    "timestamp": "2025-08-30T11:42:39.580001+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7164,7 +7379,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295371+00:00",
+    "timestamp": "2025-08-30T11:42:39.580003+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7248,7 +7463,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295374+00:00",
+    "timestamp": "2025-08-30T11:42:39.580005+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7333,7 +7548,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295377+00:00",
+    "timestamp": "2025-08-30T11:42:39.580006+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7386,7 +7601,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295380+00:00",
+    "timestamp": "2025-08-30T11:42:39.580008+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7433,7 +7648,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295383+00:00",
+    "timestamp": "2025-08-30T11:42:39.580010+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7486,7 +7701,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295386+00:00",
+    "timestamp": "2025-08-30T11:42:39.580012+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7536,7 +7751,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295389+00:00",
+    "timestamp": "2025-08-30T11:42:39.580013+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7639,7 +7854,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295393+00:00",
+    "timestamp": "2025-08-30T11:42:39.580015+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7686,7 +7901,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295396+00:00",
+    "timestamp": "2025-08-30T11:42:39.580017+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7730,7 +7945,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295399+00:00",
+    "timestamp": "2025-08-30T11:42:39.580018+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7870,7 +8085,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295402+00:00",
+    "timestamp": "2025-08-30T11:42:39.580020+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7914,7 +8129,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:06:03.295405+00:00",
+    "timestamp": "2025-08-30T11:42:39.580021+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -7978,6 +8193,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -7988,12 +8240,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:07:09.904954+00:00",
+    "timestamp": "2025-08-30T11:43:46.475089+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -8018,7 +8276,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:07:09.905048+00:00",
+    "timestamp": "2025-08-30T11:43:46.475120+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -8043,7 +8301,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:07:09.905052+00:00",
+    "timestamp": "2025-08-30T11:43:46.475125+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -8068,7 +8326,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:07:09.905054+00:00",
+    "timestamp": "2025-08-30T11:43:46.475128+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -8093,7 +8351,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:07:09.905055+00:00",
+    "timestamp": "2025-08-30T11:43:46.475131+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -8118,7 +8376,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.905058+00:00",
+    "timestamp": "2025-08-30T11:43:46.475136+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8171,7 +8429,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.905671+00:00",
+    "timestamp": "2025-08-30T11:43:46.475140+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8221,7 +8479,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906123+00:00",
+    "timestamp": "2025-08-30T11:43:46.475144+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8274,7 +8532,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906131+00:00",
+    "timestamp": "2025-08-30T11:43:46.475148+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8327,7 +8585,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906698+00:00",
+    "timestamp": "2025-08-30T11:43:46.475152+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8371,7 +8629,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906705+00:00",
+    "timestamp": "2025-08-30T11:43:46.475155+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8434,7 +8692,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906707+00:00",
+    "timestamp": "2025-08-30T11:43:46.475159+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8481,7 +8739,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906709+00:00",
+    "timestamp": "2025-08-30T11:43:46.475163+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8528,7 +8786,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906711+00:00",
+    "timestamp": "2025-08-30T11:43:46.475167+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8575,7 +8833,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906713+00:00",
+    "timestamp": "2025-08-30T11:43:46.475170+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8654,7 +8912,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906714+00:00",
+    "timestamp": "2025-08-30T11:43:46.475174+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8701,7 +8959,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906716+00:00",
+    "timestamp": "2025-08-30T11:43:46.475177+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8785,7 +9043,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906718+00:00",
+    "timestamp": "2025-08-30T11:43:46.475181+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8870,7 +9128,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906720+00:00",
+    "timestamp": "2025-08-30T11:43:46.475185+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8923,7 +9181,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906721+00:00",
+    "timestamp": "2025-08-30T11:43:46.475188+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -8970,7 +9228,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906723+00:00",
+    "timestamp": "2025-08-30T11:43:46.475191+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9023,7 +9281,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906725+00:00",
+    "timestamp": "2025-08-30T11:43:46.475195+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9073,7 +9331,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906726+00:00",
+    "timestamp": "2025-08-30T11:43:46.475198+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9176,7 +9434,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906728+00:00",
+    "timestamp": "2025-08-30T11:43:46.475202+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9223,7 +9481,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906730+00:00",
+    "timestamp": "2025-08-30T11:43:46.475206+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9267,7 +9525,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906798+00:00",
+    "timestamp": "2025-08-30T11:43:46.475211+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9407,7 +9665,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906804+00:00",
+    "timestamp": "2025-08-30T11:43:46.475214+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9451,7 +9709,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:07:09.906806+00:00",
+    "timestamp": "2025-08-30T11:43:46.475218+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9515,6 +9773,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -9525,12 +9820,18 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:08:16.359466+00:00",
+    "timestamp": "2025-08-30T11:44:52.736134+00:00",
     "raw": {
       "flrID": "2025-08-28T14:11:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -9555,7 +9856,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:08:16.359549+00:00",
+    "timestamp": "2025-08-30T11:44:52.736152+00:00",
     "raw": {
       "flrID": "2025-08-28T17:00:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -9580,7 +9881,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:08:16.359560+00:00",
+    "timestamp": "2025-08-30T11:44:52.736154+00:00",
     "raw": {
       "flrID": "2025-08-28T18:48:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -9605,7 +9906,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:08:16.359614+00:00",
+    "timestamp": "2025-08-30T11:44:52.736156+00:00",
     "raw": {
       "flrID": "2025-08-28T20:30:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -9630,7 +9931,7 @@
   },
   {
     "event_type": "FLR",
-    "timestamp": "2025-08-30T09:08:16.359623+00:00",
+    "timestamp": "2025-08-30T11:44:52.736158+00:00",
     "raw": {
       "flrID": "2025-08-29T04:09:00-FLR-001",
       "catalog": "M2M_CATALOG",
@@ -9655,7 +9956,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359630+00:00",
+    "timestamp": "2025-08-30T11:44:52.736192+00:00",
     "raw": {
       "activityID": "2025-08-27T00:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9708,7 +10009,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359634+00:00",
+    "timestamp": "2025-08-30T11:44:52.736196+00:00",
     "raw": {
       "activityID": "2025-08-27T01:25:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9758,7 +10059,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359637+00:00",
+    "timestamp": "2025-08-30T11:44:52.736222+00:00",
     "raw": {
       "activityID": "2025-08-27T05:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9811,7 +10112,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359641+00:00",
+    "timestamp": "2025-08-30T11:44:52.736225+00:00",
     "raw": {
       "activityID": "2025-08-27T08:24:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9864,7 +10165,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359645+00:00",
+    "timestamp": "2025-08-30T11:44:52.736228+00:00",
     "raw": {
       "activityID": "2025-08-27T11:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9908,7 +10209,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359648+00:00",
+    "timestamp": "2025-08-30T11:44:52.736230+00:00",
     "raw": {
       "activityID": "2025-08-27T11:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -9971,7 +10272,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359652+00:00",
+    "timestamp": "2025-08-30T11:44:52.736231+00:00",
     "raw": {
       "activityID": "2025-08-27T12:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10018,7 +10319,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359655+00:00",
+    "timestamp": "2025-08-30T11:44:52.736233+00:00",
     "raw": {
       "activityID": "2025-08-27T16:30:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10065,7 +10366,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359658+00:00",
+    "timestamp": "2025-08-30T11:44:52.736235+00:00",
     "raw": {
       "activityID": "2025-08-27T20:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10112,7 +10413,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359661+00:00",
+    "timestamp": "2025-08-30T11:44:52.736237+00:00",
     "raw": {
       "activityID": "2025-08-27T20:38:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10191,7 +10492,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359664+00:00",
+    "timestamp": "2025-08-30T11:44:52.736238+00:00",
     "raw": {
       "activityID": "2025-08-28T01:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10238,7 +10539,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359667+00:00",
+    "timestamp": "2025-08-30T11:44:52.736240+00:00",
     "raw": {
       "activityID": "2025-08-28T07:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10322,7 +10623,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359670+00:00",
+    "timestamp": "2025-08-30T11:44:52.736241+00:00",
     "raw": {
       "activityID": "2025-08-28T09:23:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10407,7 +10708,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359674+00:00",
+    "timestamp": "2025-08-30T11:44:52.736243+00:00",
     "raw": {
       "activityID": "2025-08-28T09:53:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10460,7 +10761,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359677+00:00",
+    "timestamp": "2025-08-30T11:44:52.736245+00:00",
     "raw": {
       "activityID": "2025-08-28T12:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10507,7 +10808,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359680+00:00",
+    "timestamp": "2025-08-30T11:44:52.736246+00:00",
     "raw": {
       "activityID": "2025-08-28T18:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10560,7 +10861,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359683+00:00",
+    "timestamp": "2025-08-30T11:44:52.736248+00:00",
     "raw": {
       "activityID": "2025-08-28T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10610,7 +10911,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359686+00:00",
+    "timestamp": "2025-08-30T11:44:52.736250+00:00",
     "raw": {
       "activityID": "2025-08-28T20:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10713,7 +11014,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359689+00:00",
+    "timestamp": "2025-08-30T11:44:52.736252+00:00",
     "raw": {
       "activityID": "2025-08-29T02:48:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10760,7 +11061,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359692+00:00",
+    "timestamp": "2025-08-30T11:44:52.736253+00:00",
     "raw": {
       "activityID": "2025-08-29T14:36:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10804,7 +11105,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359695+00:00",
+    "timestamp": "2025-08-30T11:44:52.736255+00:00",
     "raw": {
       "activityID": "2025-08-29T17:09:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10944,7 +11245,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359699+00:00",
+    "timestamp": "2025-08-30T11:44:52.736257+00:00",
     "raw": {
       "activityID": "2025-08-29T20:00:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -10988,7 +11289,7 @@
   },
   {
     "event_type": "CME",
-    "timestamp": "2025-08-30T09:08:16.359701+00:00",
+    "timestamp": "2025-08-30T11:44:52.736258+00:00",
     "raw": {
       "activityID": "2025-08-29T22:12:00-CME-001",
       "catalog": "M2M_CATALOG",
@@ -11052,6 +11353,43 @@
                   "isMinorImpact": false,
                   "location": "Mars",
                   "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
+                }
+              ],
+              "cmeIDs": [
+                "2025-08-29T22:12:00-CME-001"
+              ]
+            },
+            {
+              "modelCompletionTime": "2025-08-30T02:28Z",
+              "au": 5.5,
+              "estimatedShockArrivalTime": null,
+              "estimatedDuration": null,
+              "rmin_re": null,
+              "kp_18": null,
+              "kp_90": null,
+              "kp_135": null,
+              "kp_180": null,
+              "isEarthGB": false,
+              "isEarthMinorImpact": false,
+              "link": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/WSA-ENLIL/40966/-1",
+              "impactList": [
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Mars",
+                  "arrivalTime": "2025-09-03T12:00Z"
+                },
+                {
+                  "isGlancingBlow": true,
+                  "isMinorImpact": false,
+                  "location": "Psyche",
+                  "arrivalTime": "2025-09-05T00:00Z"
                 }
               ],
               "cmeIDs": [
@@ -11062,7 +11400,13 @@
         }
       ],
       "linkedEvents": null,
-      "sentNotifications": null
+      "sentNotifications": [
+        {
+          "messageID": "20250830-AL-002",
+          "messageIssueTime": "2025-08-30T14:20Z",
+          "messageURL": "https://webtools.ccmc.gsfc.nasa.gov/DONKI/view/Alert/40967/1"
+        }
+      ]
     }
   }
 ]
