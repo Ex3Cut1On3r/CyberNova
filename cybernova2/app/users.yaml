@@ -1,0 +1,13 @@
+# app/users.yaml
+users:
+  - username: admin
+    name: Mission Admin
+    role: admin
+    # password = admin123  (bcrypt-hashed)
+    password_bcrypt: "$2b$12$wQX5f1tN3yF7cZQKx9Q4lOX7mE0LJmE0x9n7QnCq0nq3Yxj8N1s0q"
+
+  - username: analyst
+    name: SpaceShield Analyst
+    role: analyst
+    # password = analyst123
+    password_bcrypt: "$2b$12$YzS2i4z7qQp9Jf5e7/5o4uS6xJ7rZC0h3w2V5m8e5Y2pI2ZK8K0k2"

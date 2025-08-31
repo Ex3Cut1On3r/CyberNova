@@ -1,0 +1,1652 @@
+[
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:16.147452+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 78.33,
+    "temperature_c": 26.74,
+    "cpu_load_percent": 40.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:16.147509+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "system_auto",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:16.147531+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 102,
+    "data_volume_kb": 409
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:16.147554+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943881,
+    "longitude": 35.518741,
+    "accuracy_m": 2.0,
+    "signal_strength_db": -124
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:17.290515+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 95.89,
+    "temperature_c": 23.79,
+    "cpu_load_percent": 22.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:17.290559+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:17.290573+00:00",
+    "source_ip": "192.168.1.19",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 105,
+    "data_volume_kb": 272
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:17.290589+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943885,
+    "longitude": 35.518772,
+    "accuracy_m": 4.7,
+    "signal_strength_db": -115
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:18.544571+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 73.3,
+    "temperature_c": 30.7,
+    "cpu_load_percent": 21.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:18.544633+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:18.544660+00:00",
+    "source_ip": "192.168.1.19",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 78,
+    "data_volume_kb": 428
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:18.544687+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943894,
+    "longitude": 35.518756,
+    "accuracy_m": 3.4,
+    "signal_strength_db": -122
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:19.687995+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 18.34,
+    "temperature_c": 30.77,
+    "cpu_load_percent": 40.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:19.688086+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:19.688108+00:00",
+    "source_ip": "192.168.1.17",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 10,
+    "data_volume_kb": 1438
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:19.688146+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.94394,
+    "longitude": 35.518802,
+    "accuracy_m": 103.0,
+    "signal_strength_db": -158
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:20.897342+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 88.53,
+    "temperature_c": 31.03,
+    "cpu_load_percent": 29.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:20.897390+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_alpha",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:20.897410+00:00",
+    "source_ip": "192.168.1.17",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 141,
+    "data_volume_kb": 141
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:20.897449+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943927,
+    "longitude": 35.51876,
+    "accuracy_m": 2.7,
+    "signal_strength_db": -123
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:22.151482+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 97.97,
+    "temperature_c": 34.48,
+    "cpu_load_percent": 25.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:22.151549+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_beta",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:22.151577+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 141,
+    "data_volume_kb": 250
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:22.151605+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943957,
+    "longitude": 35.518795,
+    "accuracy_m": 3.9,
+    "signal_strength_db": -120
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:23.334058+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 93.36,
+    "temperature_c": 22.59,
+    "cpu_load_percent": 43.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:23.334135+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:23.334165+00:00",
+    "source_ip": "192.168.1.20",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 120,
+    "data_volume_kb": 250
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:23.334193+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.94393,
+    "longitude": 35.518833,
+    "accuracy_m": 3.5,
+    "signal_strength_db": -121
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:24.550080+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 81.61,
+    "temperature_c": 24.44,
+    "cpu_load_percent": 44.4
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:24.550175+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:24.550213+00:00",
+    "source_ip": "192.168.1.20",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 149,
+    "data_volume_kb": 227
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:24.550250+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943898,
+    "longitude": 35.518793,
+    "accuracy_m": 2.8,
+    "signal_strength_db": -123
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:25.738009+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 97.72,
+    "temperature_c": 26.15,
+    "cpu_load_percent": 32.8
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:25.738117+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "system_auto",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:25.738160+00:00",
+    "source_ip": "192.168.1.12",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 174,
+    "data_volume_kb": 402
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:25.738202+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.94389,
+    "longitude": 35.518813,
+    "accuracy_m": 2.0,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:26.924454+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 70.62,
+    "temperature_c": 30.13,
+    "cpu_load_percent": 29.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:26.924501+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "system_auto",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:26.924520+00:00",
+    "source_ip": "192.168.1.10",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 141,
+    "data_volume_kb": 194
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:26.924538+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943921,
+    "longitude": 35.518844,
+    "accuracy_m": 1.9,
+    "signal_strength_db": -124
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:28.106501+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 97.06,
+    "temperature_c": 23.68,
+    "cpu_load_percent": 22.6
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:28.106598+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:28.106635+00:00",
+    "source_ip": "192.168.1.18",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 86,
+    "data_volume_kb": 168
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:28.106673+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.943922,
+    "longitude": 35.518816,
+    "accuracy_m": 2.7,
+    "signal_strength_db": -116
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:29.326741+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 83.39,
+    "temperature_c": 95.13,
+    "cpu_load_percent": 46.8
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:29.326853+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_beta",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:29.326884+00:00",
+    "source_ip": "192.168.1.19",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 20,
+    "data_volume_kb": 2666
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:29.326931+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915161,
+    "longitude": 35.510079,
+    "accuracy_m": 30.4,
+    "signal_strength_db": -118
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:30.505934+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 72.1,
+    "temperature_c": 24.81,
+    "cpu_load_percent": 27.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:30.506015+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "system_auto",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:30.506044+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 68,
+    "data_volume_kb": 177
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:30.506073+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915206,
+    "longitude": 35.510129,
+    "accuracy_m": 2.7,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:31.682062+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 95.56,
+    "temperature_c": 34.85,
+    "cpu_load_percent": 38.3
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:31.682105+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_alpha",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:31.682120+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 101,
+    "data_volume_kb": 194
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:31.682134+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915207,
+    "longitude": 35.510178,
+    "accuracy_m": 3.6,
+    "signal_strength_db": -117
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:32.857949+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 76.87,
+    "temperature_c": 30.63,
+    "cpu_load_percent": 36.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:32.858044+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_alpha",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:32.858082+00:00",
+    "source_ip": "192.168.1.17",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 59,
+    "data_volume_kb": 168
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:32.858120+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915177,
+    "longitude": 35.510212,
+    "accuracy_m": 1.9,
+    "signal_strength_db": -118
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:34.112925+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 95.48,
+    "temperature_c": 32.61,
+    "cpu_load_percent": 21.6
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:34.113073+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_alpha",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:34.113112+00:00",
+    "source_ip": "192.168.1.15",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 107,
+    "data_volume_kb": 117
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:34.113149+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915218,
+    "longitude": 35.510242,
+    "accuracy_m": 3.6,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:35.311034+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 87.87,
+    "temperature_c": 20.02,
+    "cpu_load_percent": 35.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:35.311121+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:35.311156+00:00",
+    "source_ip": "192.168.1.17",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 93,
+    "data_volume_kb": 146
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:35.311188+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.91519,
+    "longitude": 35.510251,
+    "accuracy_m": 2.3,
+    "signal_strength_db": -120
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:36.476543+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 84.85,
+    "temperature_c": 22.64,
+    "cpu_load_percent": 48.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:36.476637+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:36.476676+00:00",
+    "source_ip": "192.168.1.19",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 157,
+    "data_volume_kb": 238
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:36.476712+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915198,
+    "longitude": 35.510272,
+    "accuracy_m": 2.7,
+    "signal_strength_db": -118
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:37.752413+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 96.2,
+    "temperature_c": 27.48,
+    "cpu_load_percent": 89.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:37.752525+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_beta",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:37.752554+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 12,
+    "data_volume_kb": 1881
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:37.752601+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.915193,
+    "longitude": 35.510258,
+    "accuracy_m": 96.0,
+    "signal_strength_db": -144
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:38.985474+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 79.51,
+    "temperature_c": 101.87,
+    "cpu_load_percent": 31.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:38.985592+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "unknown_hacker",
+    "command_type": "DEACTIVATE_TRANSPONDER",
+    "status": "FAILED_AUTH"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:38.985623+00:00",
+    "source_ip": "192.168.1.12",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 12,
+    "data_volume_kb": 1263
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:38.985670+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913409,
+    "longitude": 35.504539,
+    "accuracy_m": 16.6,
+    "signal_strength_db": -118
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:40.184091+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 95.19,
+    "temperature_c": 25.79,
+    "cpu_load_percent": 40.0
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:40.184187+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_beta",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:40.184223+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 77,
+    "data_volume_kb": 223
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:40.184260+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913423,
+    "longitude": 35.504543,
+    "accuracy_m": 3.8,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:41.382933+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 81.68,
+    "temperature_c": 23.09,
+    "cpu_load_percent": 38.3
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:41.383027+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_beta",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:41.383065+00:00",
+    "source_ip": "192.168.1.18",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 51,
+    "data_volume_kb": 355
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:41.383102+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913423,
+    "longitude": 35.504543,
+    "accuracy_m": 1.7,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:42.625517+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 71.96,
+    "temperature_c": 28.3,
+    "cpu_load_percent": 20.8
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:42.625555+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:42.625570+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 123,
+    "data_volume_kb": 407
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:42.625584+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913445,
+    "longitude": 35.50451,
+    "accuracy_m": 4.1,
+    "signal_strength_db": -117
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:43.759209+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 88.22,
+    "temperature_c": 32.93,
+    "cpu_load_percent": 26.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:43.759315+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:43.759359+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 57,
+    "data_volume_kb": 371
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:43.759403+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913469,
+    "longitude": 35.504557,
+    "accuracy_m": 2.7,
+    "signal_strength_db": -118
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:44.936108+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 93.11,
+    "temperature_c": 25.04,
+    "cpu_load_percent": 29.6
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:44.936178+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:44.936208+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 52,
+    "data_volume_kb": 215
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:44.936237+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913456,
+    "longitude": 35.504584,
+    "accuracy_m": 2.2,
+    "signal_strength_db": -124
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:46.123391+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 87.82,
+    "temperature_c": 30.76,
+    "cpu_load_percent": 46.8
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:46.123487+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "system_auto",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:46.123524+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 164,
+    "data_volume_kb": 221
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:46.123561+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913466,
+    "longitude": 35.504589,
+    "accuracy_m": 3.8,
+    "signal_strength_db": -123
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:47.363828+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 74.54,
+    "temperature_c": 28.72,
+    "cpu_load_percent": 39.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:47.363926+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:47.363963+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 74,
+    "data_volume_kb": 222
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:47.363999+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913509,
+    "longitude": 35.504571,
+    "accuracy_m": 3.4,
+    "signal_strength_db": -116
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:48.520405+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 90.52,
+    "temperature_c": 22.79,
+    "cpu_load_percent": 46.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:48.520462+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_alpha",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:48.520483+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 93,
+    "data_volume_kb": 385
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:48.520504+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913483,
+    "longitude": 35.504568,
+    "accuracy_m": 4.8,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:49.775036+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 77.75,
+    "temperature_c": 21.83,
+    "cpu_load_percent": 94.6
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:49.775150+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "unknown_hacker",
+    "command_type": "DEACTIVATE_TRANSPONDER",
+    "status": "FAILED_AUTH"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:49.775179+00:00",
+    "source_ip": "192.168.1.20",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 19,
+    "data_volume_kb": 1636
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:49.775227+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913493,
+    "longitude": 35.504549,
+    "accuracy_m": 195.2,
+    "signal_strength_db": -159
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:51.006467+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 77.21,
+    "temperature_c": 22.68,
+    "cpu_load_percent": 23.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:51.006566+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:51.006604+00:00",
+    "source_ip": "192.168.1.15",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 140,
+    "data_volume_kb": 179
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:51.006640+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.91345,
+    "longitude": 35.504531,
+    "accuracy_m": 4.2,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:52.183150+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 87.13,
+    "temperature_c": 22.5,
+    "cpu_load_percent": 99.6
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:52.183263+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "system_auto",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:52.183294+00:00",
+    "source_ip": "172.16.0.65",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 2185,
+    "data_volume_kb": 5689
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:52.183345+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913489,
+    "longitude": 35.50449,
+    "accuracy_m": 160.0,
+    "signal_strength_db": -147
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:53.416398+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 72.3,
+    "temperature_c": 31.54,
+    "cpu_load_percent": 21.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:53.416433+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_alpha",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:53.416447+00:00",
+    "source_ip": "192.168.1.15",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 122,
+    "data_volume_kb": 127
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:53.416462+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913513,
+    "longitude": 35.504472,
+    "accuracy_m": 4.6,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:54.597012+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 90.81,
+    "temperature_c": 32.49,
+    "cpu_load_percent": 44.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:54.597105+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:54.597138+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 166,
+    "data_volume_kb": 162
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:54.597174+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913516,
+    "longitude": 35.504494,
+    "accuracy_m": 4.4,
+    "signal_strength_db": -120
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:55.740502+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 97.58,
+    "temperature_c": 30.25,
+    "cpu_load_percent": 44.5
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:55.740602+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:55.740642+00:00",
+    "source_ip": "192.168.1.17",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 139,
+    "data_volume_kb": 306
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:55.740681+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913516,
+    "longitude": 35.504527,
+    "accuracy_m": 2.4,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:56.883592+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 83.92,
+    "temperature_c": 28.07,
+    "cpu_load_percent": 41.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:56.883692+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "STATUS_CHECK",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:56.883732+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 132,
+    "data_volume_kb": 458
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:56.883773+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913484,
+    "longitude": 35.504563,
+    "accuracy_m": 2.2,
+    "signal_strength_db": -116
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:58.104329+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 93.03,
+    "temperature_c": 23.2,
+    "cpu_load_percent": 35.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:58.104428+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "system_auto",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:58.104465+00:00",
+    "source_ip": "192.168.1.20",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 141,
+    "data_volume_kb": 368
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:58.104504+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913464,
+    "longitude": 35.504525,
+    "accuracy_m": 3.8,
+    "signal_strength_db": -116
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:27:59.314114+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 72.54,
+    "temperature_c": 20.43,
+    "cpu_load_percent": 45.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:27:59.314214+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:27:59.314252+00:00",
+    "source_ip": "192.168.1.18",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 54,
+    "data_volume_kb": 415
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:27:59.314291+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913513,
+    "longitude": 35.504503,
+    "accuracy_m": 2.3,
+    "signal_strength_db": -120
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:00.514768+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 76.27,
+    "temperature_c": 34.6,
+    "cpu_load_percent": 41.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:00.514871+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_alpha",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:00.514907+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 94,
+    "data_volume_kb": 115
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:00.514943+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913468,
+    "longitude": 35.504501,
+    "accuracy_m": 4.1,
+    "signal_strength_db": -121
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:01.746990+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 76.25,
+    "temperature_c": 30.54,
+    "cpu_load_percent": 28.7
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:01.747087+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_alpha",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:01.747124+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 83,
+    "data_volume_kb": 340
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:01.747162+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913466,
+    "longitude": 35.504474,
+    "accuracy_m": 3.9,
+    "signal_strength_db": -117
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:02.889683+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 89.89,
+    "temperature_c": 34.3,
+    "cpu_load_percent": 25.2
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:02.889772+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:02.889806+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 149,
+    "data_volume_kb": 314
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:02.889840+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.91344,
+    "longitude": 35.504463,
+    "accuracy_m": 4.2,
+    "signal_strength_db": -122
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:04.125645+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 98.99,
+    "temperature_c": 21.86,
+    "cpu_load_percent": 47.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:04.125692+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:04.125712+00:00",
+    "source_ip": "192.168.1.18",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 93,
+    "data_volume_kb": 193
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:04.125734+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.9134,
+    "longitude": 35.504449,
+    "accuracy_m": 3.5,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:05.343852+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 73.06,
+    "temperature_c": 32.6,
+    "cpu_load_percent": 37.4
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:05.343903+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_alpha",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:05.343925+00:00",
+    "source_ip": "192.168.1.10",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 144,
+    "data_volume_kb": 439
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:05.343947+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913376,
+    "longitude": 35.504499,
+    "accuracy_m": 4.3,
+    "signal_strength_db": -124
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:06.529802+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 81.84,
+    "temperature_c": 26.39,
+    "cpu_load_percent": 25.9
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:06.529843+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:06.529858+00:00",
+    "source_ip": "192.168.1.20",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 170,
+    "data_volume_kb": 138
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:06.529874+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913353,
+    "longitude": 35.504544,
+    "accuracy_m": 4.8,
+    "signal_strength_db": -117
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:07.657232+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 78.74,
+    "temperature_c": 22.86,
+    "cpu_load_percent": 46.8
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:07.657273+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "operator_beta",
+    "command_type": "DOWNLOAD_DATA",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:07.657289+00:00",
+    "source_ip": "192.168.1.10",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 124,
+    "data_volume_kb": 249
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:07.657304+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.913333,
+    "longitude": 35.504515,
+    "accuracy_m": 1.9,
+    "signal_strength_db": -125
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:08.777921+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 91.31,
+    "temperature_c": 89.4,
+    "cpu_load_percent": 44.0
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:08.777971+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "operator_alpha",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:08.777982+00:00",
+    "source_ip": "192.168.1.16",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 14,
+    "data_volume_kb": 2687
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:08.778002+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926199,
+    "longitude": 35.518667,
+    "accuracy_m": 17.9,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:09.909847+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 9.68,
+    "temperature_c": 25.08,
+    "cpu_load_percent": 26.4
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:09.909910+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:09.909929+00:00",
+    "source_ip": "192.168.1.13",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 12,
+    "data_volume_kb": 2103
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:09.909959+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926195,
+    "longitude": 35.518679,
+    "accuracy_m": 64.0,
+    "signal_strength_db": -151
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:11.063940+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 83.92,
+    "temperature_c": 25.52,
+    "cpu_load_percent": 46.0
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:11.063991+00:00",
+    "source_ip": "192.168.1.12",
+    "user_id": "system_auto",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:11.064013+00:00",
+    "source_ip": "192.168.1.10",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 120,
+    "data_volume_kb": 407
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:11.064035+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926212,
+    "longitude": 35.518706,
+    "accuracy_m": 3.9,
+    "signal_strength_db": -119
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:12.251414+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 88.34,
+    "temperature_c": 26.09,
+    "cpu_load_percent": 87.4
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:12.251467+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "system_auto",
+    "command_type": "LOGIN_ATTEMPT",
+    "status": "FAILED"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:12.251479+00:00",
+    "source_ip": "192.168.1.18",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 13,
+    "data_volume_kb": 2194
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:12.251499+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926255,
+    "longitude": 35.518713,
+    "accuracy_m": 135.9,
+    "signal_strength_db": -141
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:13.365881+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 83.66,
+    "temperature_c": 26.3,
+    "cpu_load_percent": 49.7
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:13.365922+00:00",
+    "source_ip": "192.168.1.10",
+    "user_id": "system_auto",
+    "command_type": "ACTIVATE_SENSOR",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:13.365937+00:00",
+    "source_ip": "192.168.1.11",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 125,
+    "data_volume_kb": 436
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:13.365953+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926288,
+    "longitude": 35.518695,
+    "accuracy_m": 4.2,
+    "signal_strength_db": -124
+  },
+  {
+    "feed_type": "TELEMETRY",
+    "timestamp": "2025-08-31T17:28:14.579813+00:00",
+    "satellite_id": "LEB-SAT-001",
+    "battery_level": 75.43,
+    "temperature_c": 32.34,
+    "cpu_load_percent": 43.1
+  },
+  {
+    "feed_type": "COMMAND_LOG",
+    "timestamp": "2025-08-31T17:28:14.579857+00:00",
+    "source_ip": "192.168.1.11",
+    "user_id": "operator_alpha",
+    "command_type": "ORBIT_ADJUST",
+    "status": "SUCCESS"
+  },
+  {
+    "feed_type": "NETWORK_TRAFFIC",
+    "timestamp": "2025-08-31T17:28:14.579873+00:00",
+    "source_ip": "192.168.1.14",
+    "dest_ip": "10.0.0.5",
+    "packet_count": 186,
+    "data_volume_kb": 261
+  },
+  {
+    "feed_type": "GPS_SIGNAL",
+    "timestamp": "2025-08-31T17:28:14.579889+00:00",
+    "receiver_id": "BEY_AIRPORT_GPS_01",
+    "latitude": 33.926273,
+    "longitude": 35.518718,
+    "accuracy_m": 1.6,
+    "signal_strength_db": -116
+  }
+]

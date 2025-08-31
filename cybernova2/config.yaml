@@ -1,0 +1,25 @@
+# Thresholds & policies for detection
+telemetry:
+  high_temp_c: 70
+  low_battery_percent: 30
+  high_cpu_percent: 75
+
+network:
+  ddos_packets_min: 1000
+  large_packet_kb_min: 2000
+  large_packet_packets_max: 100
+
+gps:
+  spoofing_deg_threshold: 0.005  # ~500m
+  speed_m_s_threshold: 100       # unrealistic jump > 360 km/h for stationary receiver
+  degraded_accuracy_m: 30.0
+  weak_signal_db: -140
+
+# Alert retention
+retention:
+  max_feed_items: 200
+  max_alerts: 500
+
+# NASA event rate anomaly thresholds
+nasa:
+  events_per_hour_threshold: 10

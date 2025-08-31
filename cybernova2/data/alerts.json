@@ -1,0 +1,1541 @@
+[
+  {
+    "timestamp": "2025-08-31T16:42:58.437747+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 754209166899851,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:42:58.441385"
+  },
+  {
+    "timestamp": "2025-08-31T16:44:13.309455+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1610578279191752,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:44:13.376639"
+  },
+  {
+    "timestamp": "2025-08-31T16:44:38.593224+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "104.18.32.25",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1703456735296783,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:44:38.616831"
+  },
+  {
+    "timestamp": "2025-08-31T16:48:55.331110+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "142.250.200.206",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1984860242876165,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:48:55.388495"
+  },
+  {
+    "timestamp": "2025-08-31T16:49:01.554621+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1537655519404627,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:49:01.599340"
+  },
+  {
+    "timestamp": "2025-08-31T16:54:19.968612+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1063932296574551,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:54:20.058267"
+  },
+  {
+    "timestamp": "2025-08-31T16:54:58.245707+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "216.239.36.181",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 773832232196818,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:54:58.254732"
+  },
+  {
+    "timestamp": "2025-08-31T16:55:07.077248+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "157.240.195.56",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 894447962493925,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:55:07.170206"
+  },
+  {
+    "timestamp": "2025-08-31T16:55:31.426568+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "213.204.103.18",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 987672018942724,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:55:31.514062"
+  },
+  {
+    "timestamp": "2025-08-31T16:59:46.457354+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 838422123643993,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T13:59:46.514628"
+  },
+  {
+    "timestamp": "2025-08-31T17:00:19.091251+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "149.154.166.120",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 954736767481660,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:00:19.181378"
+  },
+  {
+    "timestamp": "2025-08-31T17:00:28.140907+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "57.144.120.128",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1168144745315592,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:00:28.199999"
+  },
+  {
+    "timestamp": "2025-08-31T17:06:34.430423+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "18.161.97.85",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 722756665680649,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:06:34.471519"
+  },
+  {
+    "timestamp": "2025-08-31T17:06:37.457832+0300",
+    "src_ip": "192.168.1.113",
+    "dest_ip": "216.239.36.223",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1684900170761879,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:06:37.477315"
+  },
+  {
+    "timestamp": "2025-08-31T17:07:10.044147+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "142.250.201.42",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1878460053197258,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:07:10.138965"
+  },
+  {
+    "timestamp": "2025-08-31T17:07:20.103894+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "185.54.60.34",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 164749446212778,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:07:20.160368"
+  },
+  {
+    "timestamp": "2025-08-31T17:07:30.305877+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "57.144.120.192",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 750783939898764,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:07:30.381616"
+  },
+  {
+    "timestamp": "2025-08-31T17:08:32.198410+0300",
+    "src_ip": "192.168.1.113",
+    "dest_ip": "199.232.81.155",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 7741337672281,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:08:32.207265"
+  },
+  {
+    "timestamp": "2025-08-31T17:09:06.754532+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 707416095973906,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:09:06.777321"
+  },
+  {
+    "timestamp": "2025-08-31T17:09:27.339354+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "34.252.38.116",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2020466266813822,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:09:27.418718"
+  },
+  {
+    "timestamp": "2025-08-31T17:09:32.154549+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "34.242.48.77",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 968758317801283,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:09:32.227523"
+  },
+  {
+    "timestamp": "2025-08-31T17:09:47.815690+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "45.57.68.176",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 970089753694553,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:09:47.858032"
+  },
+  {
+    "timestamp": "2025-08-31T17:10:08.642313+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "142.251.37.54",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 225440077347113,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:10:08.703427"
+  },
+  {
+    "timestamp": "2025-08-31T17:10:16.974980+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 246860950999908,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:10:17.021737"
+  },
+  {
+    "timestamp": "2025-08-31T17:11:11.831408+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "142.251.37.182",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2163499090554322,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:11:11.928182"
+  },
+  {
+    "timestamp": "2025-08-31T17:11:25.784373+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1680006656230515,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:11:25.855863"
+  },
+  {
+    "timestamp": "2025-08-31T17:12:02.994374+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "157.240.195.56",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 611633293162317,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:12:03.031705"
+  },
+  {
+    "timestamp": "2025-08-31T17:12:19.706825+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "142.250.200.196",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1065466207197546,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:12:19.759732"
+  },
+  {
+    "timestamp": "2025-08-31T17:12:32.235231+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "172.217.18.234",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 165885689418643,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:12:32.286434"
+  },
+  {
+    "timestamp": "2025-08-31T17:12:36.465030+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1152867280695418,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:12:36.494298"
+  },
+  {
+    "timestamp": "2025-08-31T17:13:19.682239+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "185.54.60.34",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2085772059270647,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:13:19.769986"
+  },
+  {
+    "timestamp": "2025-08-31T17:13:49.905703+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1638167944237512,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:13:49.926518"
+  },
+  {
+    "timestamp": "2025-08-31T17:16:12.439076+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1322870333453005,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:16:12.453590"
+  },
+  {
+    "timestamp": "2025-08-31T17:17:22.608640+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 643768110836989,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:17:22.663743"
+  },
+  {
+    "timestamp": "2025-08-31T17:18:27.450480+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1090373408030839,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:18:27.463806"
+  },
+  {
+    "timestamp": "2025-08-31T17:19:42.709418+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1921031009837930,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:19:42.774420"
+  },
+  {
+    "timestamp": "2025-08-31T17:19:51.618634+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "34.102.162.219",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2094063671714214,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:19:51.687219"
+  },
+  {
+    "timestamp": "2025-08-31T17:20:50.166363+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "172.64.155.209",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 714527324606891,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:20:50.176589"
+  },
+  {
+    "timestamp": "2025-08-31T17:21:19.797030+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "34.107.221.82",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1960240760153060,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:21:19.836621"
+  },
+  {
+    "timestamp": "2025-08-31T17:21:39.162962+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "216.137.52.95",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 981394030683831,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:21:39.174993"
+  },
+  {
+    "timestamp": "2025-08-31T17:21:43.272462+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "44.215.153.94",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2014640742364636,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:21:43.282106"
+  },
+  {
+    "timestamp": "2025-08-31T17:22:03.716968+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "104.18.39.21",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1109030421176887,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:22:03.722595"
+  },
+  {
+    "timestamp": "2025-08-31T17:23:04.590505+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "40.126.53.16",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2683377913676,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:23:04.636140"
+  },
+  {
+    "timestamp": "2025-08-31T17:23:14.270555+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 599077031256354,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:23:14.355311"
+  },
+  {
+    "timestamp": "2025-08-31T17:24:25.178396+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 484730886449464,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:24:25.278558"
+  },
+  {
+    "timestamp": "2025-08-31T17:26:55.855070+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1983650006271349,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:26:55.865852"
+  },
+  {
+    "timestamp": "2025-08-31T17:47:47.852239+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "18.161.97.13",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 845589543646233,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:47:47.912318"
+  },
+  {
+    "timestamp": "2025-08-31T17:47:57.119856+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "34.139.124.58",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1640678169984625,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:47:57.133838"
+  },
+  {
+    "timestamp": "2025-08-31T17:49:07.492412+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 988997657736103,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:49:07.502577"
+  },
+  {
+    "timestamp": "2025-08-31T17:50:16.710748+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.136.64.178",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 237891807734995,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T14:50:16.757271"
+  },
+  {
+    "timestamp": "2025-08-31T18:00:17.269071+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 255536653988655,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:00:17.273731"
+  },
+  {
+    "timestamp": "2025-08-31T18:00:34.203133+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "142.251.37.46",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 590975055260672,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:00:34.203467"
+  },
+  {
+    "timestamp": "2025-08-31T18:01:28.744444+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 101141926251993,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:01:28.801797"
+  },
+  {
+    "timestamp": "2025-08-31T18:02:33.035071+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "216.58.205.206",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 432105920754128,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:02:33.109929"
+  },
+  {
+    "timestamp": "2025-08-31T18:02:36.482844+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "216.58.198.67",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1229377328481840,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:02:36.517156"
+  },
+  {
+    "timestamp": "2025-08-31T18:02:47.004331+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "142.250.200.234",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1988929220818359,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:02:47.042277"
+  },
+  {
+    "timestamp": "2025-08-31T18:03:05.465632+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "74.125.71.84",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 311028281828111,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:03:05.470641"
+  },
+  {
+    "timestamp": "2025-08-31T18:03:16.978904+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "142.250.200.234",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1389611792382270,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T15:03:16.993306"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:02.135910+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 583730339703020,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:02.216792"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:12.241915+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1320493949566615,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:12.338185"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:22.247092+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1905678125808348,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:22.259109"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:25.863478+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 330913777802489,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:25.868621"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:34.192515+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 826847798011211,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:34.196519"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:44.300110+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1288966720870456,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:44.316747"
+  },
+  {
+    "timestamp": "2025-08-31T19:08:55.214197+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "34.102.215.99",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2045870690373325,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:08:55.240372"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:08.083806+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1204370369834861,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:08.176664"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:17.165193+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1553923805919481,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:17.201868"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:27.200615+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1987536416244589,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:27.228124"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:34.676901+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1781369523452672,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:34.755174"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:37.204098+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 313644670374190,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:37.260600"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:47.376459+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1053932668395071,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:47.386162"
+  },
+  {
+    "timestamp": "2025-08-31T19:09:57.423188+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1536106785654313,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:09:57.516111"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:08.734543+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 58614858042150,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:08.755748"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:18.811878+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 672243371089429,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:18.877433"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:28.877110+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1233887131542571,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:28.901063"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:38.924598+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1719322092822824,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:38.931347"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:41.297399+0300",
+    "src_ip": "192.168.1.171",
+    "dest_ip": "56.137.41.93",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 432896747747629,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:41.337692"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:48.956666+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 168200312925590,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:48.959616"
+  },
+  {
+    "timestamp": "2025-08-31T19:10:59.005593+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 868450681103389,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:10:59.090405"
+  },
+  {
+    "timestamp": "2025-08-31T19:11:09.056786+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 1651271077880988,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:11:09.125138"
+  },
+  {
+    "timestamp": "2025-08-31T19:11:19.143416+0300",
+    "src_ip": "192.168.1.250",
+    "dest_ip": "192.168.1.1",
+    "severity": "MEDIUM",
+    "alert": {
+      "action": "allowed",
+      "gid": 1,
+      "signature_id": 1000020,
+      "rev": 1,
+      "signature": "Possible TCP SYN scan detected",
+      "category": "",
+      "severity": 3
+    },
+    "flow_id": 2023345115440568,
+    "proto": "TCP",
+    "app_proto": null,
+    "processed_at": "2025-08-31T16:11:19.145928"
+  }
+]

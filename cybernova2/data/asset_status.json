@@ -1,0 +1,65 @@
+{
+  "last_updated": "2025-08-31T17:28:12.313338",
+  "assets": {
+    "192.168.1.250": {
+      "name": "Primary Gateway Server",
+      "type": "Gateway Server",
+      "segment": "DMZ",
+      "group": "network_infrastructure",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    },
+    "192.168.1.100": {
+      "name": "Database Cluster Node-1",
+      "type": "Database Server",
+      "segment": "Internal",
+      "group": "database_tier",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    },
+    "192.168.1.200": {
+      "name": "Web Application Server",
+      "type": "Web Server",
+      "segment": "DMZ",
+      "group": "application_tier",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    },
+    "192.168.1.150": {
+      "name": "File Storage NAS",
+      "type": "Storage Device",
+      "segment": "Internal",
+      "group": "storage_systems",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    },
+    "192.168.1.50": {
+      "name": "Monitoring Workstation",
+      "type": "Workstation",
+      "segment": "Management",
+      "group": "management_systems",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    },
+    "192.168.1.180": {
+      "name": "Backup Server",
+      "type": "Backup Server",
+      "segment": "Internal",
+      "group": "backup_systems",
+      "status": "offline",
+      "alert_count": 0,
+      "last_seen": null,
+      "first_detection": null
+    }
+  }
+}

@@ -1,0 +1,74 @@
+[
+  {
+    "timestamp": "2025-08-30 10:51:33",
+    "severity": "HIGH",
+    "type": "Malware Detection",
+    "description": "Suspicious executable behavior detected on host system",
+    "source": "IDS Engine",
+    "host": "192.168.56.101",
+    "reason": "Process injection and network anomaly detected",
+    "details": "Potentially malicious process spawned on 192.168.56.101",
+    "id": "ALERT_2180",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:51:35",
+    "severity": "CRITICAL",
+    "type": "DDoS Attack",
+    "description": "Distributed denial of service attack targeting critical infrastructure",
+    "source": "Network Monitor",
+    "host": "192.168.56.101",
+    "reason": "Traffic volume exceeded normal threshold by 400%",
+    "details": "Coordinated attack from multiple sources targeting 192.168.56.101",
+    "id": "ALERT_8116",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:54:35",
+    "severity": "HIGH",
+    "type": "Malware Detection",
+    "description": "Suspicious executable behavior detected on host system",
+    "source": "IDS Engine",
+    "host": "192.168.56.101",
+    "reason": "Process injection and network anomaly detected",
+    "details": "Potentially malicious process spawned on 192.168.56.101",
+    "id": "ALERT_8637",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-30 10:54:36",
+    "severity": "CRITICAL",
+    "type": "DDoS Attack",
+    "description": "Distributed denial of service attack targeting critical infrastructure",
+    "source": "Network Monitor",
+    "host": "192.168.56.101",
+    "reason": "Traffic volume exceeded normal threshold by 400%",
+    "details": "Coordinated attack from multiple sources targeting 192.168.56.101",
+    "id": "ALERT_1704",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-31 09:29:37",
+    "severity": "HIGH",
+    "type": "Malware Detection",
+    "description": "Suspicious executable behavior detected on host system",
+    "source": "IDS Engine",
+    "host": "192.168.56.101",
+    "reason": "Process injection and network anomaly detected",
+    "details": "Potentially malicious process spawned on 192.168.56.101",
+    "id": "ALERT_5711",
+    "status": "active"
+  },
+  {
+    "timestamp": "2025-08-31 09:29:39",
+    "severity": "CRITICAL",
+    "type": "DDoS Attack",
+    "description": "Distributed denial of service attack targeting critical infrastructure",
+    "source": "Network Monitor",
+    "host": "192.168.56.101",
+    "reason": "Traffic volume exceeded normal threshold by 400%",
+    "details": "Coordinated attack from multiple sources targeting 192.168.56.101",
+    "id": "ALERT_4447",
+    "status": "active"
+  }
+]

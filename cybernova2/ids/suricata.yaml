@@ -1,0 +1,39 @@
+%YAML 1.1
+---
+# Suricata configuration for CyberNova
+default-log-dir: /var/log/suricata
+
+vars:
+  address-groups:
+    HOME_NET: "[192.168.0.0/16]"  # adjust to your local network
+    EXTERNAL_NET: "!$HOME_NET"
+
+logging:
+  default-log-level: info
+
+outputs:
+  - eve-log:
+      enabled: yes
+      filetype: regular
+      filename: /var/log/suricata/eve.json
+      types:
+        - alert:
+            payload: yes         # include payload in alert
+            payload-printable: yes
+            packet: yes
+            http: yes
+            tls: yes
+            ssh: yes
+            dns: yes
+            smtp: yes
+        - dns
+        - http
+        - tls
+        - files
+
+af-packet:
+  - interface: eth0
+    cluster-id: 99
+    cluster-type: cluster_flow
+    defrag: yes
+

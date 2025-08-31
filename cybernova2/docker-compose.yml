@@ -1,0 +1,122 @@
+version: "3.9"
+
+networks:
+  cybernova_network:
+    driver: bridge
+
+services:
+  dashboard:
+    build: .
+    container_name: cybernova_dashboard
+    command: streamlit run app/app.py --server.port=8501 --server.address=0.0.0.0
+    environment:
+      - NASA_API_KEY=${NASA_API_KEY:-DEMO}
+      - STREAMLIT_BROWSER_GATHERUSAGESTATS=false
+      - PYTHONUNBUFFERED=1
+    ports:
+      - "8501:8501"
+    volumes:
+      - ./data:/app/data
+      - ./app:/app/app
+    depends_on:
+      - generator
+      - nasa_ingest
+      - noaa_ingest
+      - aviation_ingest
+      - events
+      - suricata_ingest
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "curl", "-f", "http://localhost:8501/_stcore/health"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  generator:
+    build: .
+    container_name: cybernova_generator
+    command: python -m app.generator
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+
+  nasa_ingest:
+    build: .
+    container_name: cybernova_nasa
+    command: python -m app.nasa_ingest
+    environment:
+      - NASA_API_KEY=${NASA_API_KEY:-DEMO}
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+
+  noaa_ingest:
+    build: .
+    container_name: cybernova_noaa
+    command: python -m app.noaa_swpc_ingest
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+
+  aviation_ingest:
+    build: .
+    container_name: cybernova_aviation
+    command: python -m app.aviation_ingest
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+
+  suricata_ingest:
+    build: .
+    container_name: cybernova_suricata_ingest
+    command: python -m app.suricata_ingest
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+      # Mount live Suricata logs from host
+      - /var/log/suricata:/var/log/suricata:ro
+    ports:
+      - "8765:8765"  # Expose WS for alerts
+      - "8766:8766"  # Optional: WS for asset status
+    networks:
+      - cybernova_network
+    restart: unless-stopped
+    healthcheck:
+      test: ["CMD", "python", "-c", "import socket; s=socket.socket(); s.connect(('localhost', 8765)); s.close()"]
+      interval: 30s
+      timeout: 10s
+      retries: 3
+
+  events:
+    build: .
+    container_name: cybernova_events
+    command: uvicorn app.events_server:app --host 0.0.0.0 --port 8080 --reload
+    environment:
+      - PYTHONUNBUFFERED=1
+    volumes:
+      - ./data:/app/data
+    ports:
+      - "8080:8080"
+    depends_on:
+      - suricata_ingest
+    networks:
+      - cybernova_network
+    restart: unless-stopped
