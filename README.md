@@ -3,4 +3,3 @@ this is a minimal repo for this project because it has multuple parts in it and 
 welcome to the CyberNOva family <3
 
 sorry for the long wait, it just uploaded
-https://youtu.be/ySjPSiqLC8o?si=gEXVE88i_QhQGJAd
